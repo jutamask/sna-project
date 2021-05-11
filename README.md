@@ -6,9 +6,9 @@
 - Create new project and Local DBMS [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Create%20Project.pdf)
 - Install and additional Plugin Graph Data Science Library  [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Plugins%20Graph%20Data%20Science.pdf)
 ### Dataset
-- Dataset claim [here](https://github.com/phuritanc/git-snaneo4j/blob/main/DATAMTCLAIMALL.csv)
-- Dataset car brand [here](https://github.com/phuritanc/git-snaneo4j/blob/main/CARBRAND.csv)
-- Dateset car model [here](https://github.com/phuritanc/git-snaneo4j/blob/main/CARMODEL.csv)
+- Dataset Diagnosis-Related  [Click here](https://github.com/jutamask/sna-project/blob/main/data_sna.csv)
+- Dataset Description-ICD10 [Click here](https://github.com/jutamask/sna-project/blob/main/descript_icd_dx.csv)
+
 ### Import Data to Neo4j
 - Import data to project [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Import%20Dataset%20to%20neo4j.pdf)
 ### Load Dataset into Local DBMS
