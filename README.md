@@ -1,4 +1,5 @@
-# Community Detection of Insurance Motor Claim
+<<<<<<< Updated upstream
+# Comorbridity Networks Analysis in Deseases of the Circulatory System
 ### Setup and Install Neo4j Desktop
  - Download Neo4j Desktop [here](https://neo4j.com/download/)
  - About Neo4j [here](https://neo4j.com/product/#neo4j-desktop)
@@ -180,3 +181,9 @@ LIMIT toInteger($limit);
 ```
 
 
+=======
+# sna-project
+sna project
+pimmy
+SNA !!! 
+>>>>>>> Stashed changes
