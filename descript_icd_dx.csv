@@ -1,0 +1,1427 @@
+dx,TERM,CHAPTER,BLOCK
+I00,Rheumatic fever without mention of heart involvement,Diseases of the circulatory system,Acute rheumatic fever
+I011,Acute rheumatic endocarditis,Diseases of the circulatory system,Acute rheumatic fever
+I019,"Acute rheumatic heart disease, unspecified",Diseases of the circulatory system,Acute rheumatic fever
+I050,Mitral stenosis,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I051,Rheumatic mitral insufficiency,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I052,Mitral stenosis with insufficiency,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I060,Rheumatic aortic stenosis,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I061,Rheumatic aortic insufficiency,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I071,Tricuspid insufficiency,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I099,"Rheumatic heart disease, unspecified",Diseases of the circulatory system,Chronic rheumatic heart diseases
+I10,Essential (primary) hypertension,Diseases of the circulatory system,Hypertensive diseases
+I110,Hypertensive heart disease with (congestive) heart failure,Diseases of the circulatory system,Hypertensive diseases
+I119,Hypertensive heart disease without (congestive) heart failure,Diseases of the circulatory system,Hypertensive diseases
+I129,Hypertensive renal disease without renal failure,Diseases of the circulatory system,Hypertensive diseases
+I130,Hypertensive heart and renal disease with (congestive) heart failure,Diseases of the circulatory system,Hypertensive diseases
+I139,"Hypertensive heart and renal disease, unspecified",Diseases of the circulatory system,Hypertensive diseases
+I151,Hypertension secondary to other renal disorders,Diseases of the circulatory system,Hypertensive diseases
+I159,"Secondary hypertension, unspecified",Diseases of the circulatory system,Hypertensive diseases
+I200,Unstable angina,Diseases of the circulatory system,Ischaemic heart diseases
+I201,Angina pectoris with documented spasm,Diseases of the circulatory system,Ischaemic heart diseases
+I208,Other forms of angina pectoris,Diseases of the circulatory system,Ischaemic heart diseases
+I209,"Angina pectoris, unspecified",Diseases of the circulatory system,Ischaemic heart diseases
+I210,Acute transmural myocardial infarction of anterior wall,Diseases of the circulatory system,Ischaemic heart diseases
+I211,Acute transmural myocardial infarction of inferior wall,Diseases of the circulatory system,Ischaemic heart diseases
+I212,Acute transmural myocardial infarction of other sites,Diseases of the circulatory system,Ischaemic heart diseases
+I213,Acute transmural myocardial infarction of unspecified site,Diseases of the circulatory system,Ischaemic heart diseases
+I214,Acute subendocardial myocardial infarction,Diseases of the circulatory system,Ischaemic heart diseases
+I219,"Acute myocardial infarction, unspecified",Diseases of the circulatory system,Ischaemic heart diseases
+I220,Subsequent myocardial infarction of anterior wall,Diseases of the circulatory system,Ischaemic heart diseases
+I221,Subsequent myocardial infarction of inferior wall,Diseases of the circulatory system,Ischaemic heart diseases
+I228,Subsequent myocardial infarction of other sites,Diseases of the circulatory system,Ischaemic heart diseases
+I229,Subsequent myocardial infarction of unspecified site,Diseases of the circulatory system,Ischaemic heart diseases
+I233,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,Diseases of the circulatory system,Ischaemic heart diseases
+I236,"Thrombosis of atrium, auricular appendage, and ventricle as current complication following acute myocardial infarction",Diseases of the circulatory system,Ischaemic heart diseases
+I241,Dressler's syndrome,Diseases of the circulatory system,Ischaemic heart diseases
+I249,"Acute ischaemic heart disease, unspecified",Diseases of the circulatory system,Ischaemic heart diseases
+I251,Atherosclerotic heart disease,Diseases of the circulatory system,Ischaemic heart diseases
+I252,Old myocardial infarction,Diseases of the circulatory system,Ischaemic heart diseases
+I254,Coronary artery aneurysm,Diseases of the circulatory system,Ischaemic heart diseases
+I255,Ischaemic cardiomyopathy,Diseases of the circulatory system,Ischaemic heart diseases
+I260,Pulmonary embolism with mention of acute cor pulmonale NOS,Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+I269,Pulmonary embolism without mention of acute cor pulmonale,Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+I270,Primary pulmonary hypertension,Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+I272,Other secondary pulmonary hypertension,Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+I279,"Pulmonary heart disease, unspecified",Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+I301,Infective pericarditis,Diseases of the circulatory system,Other forms of heart disease
+I311,Chronic constrictive pericarditis,Diseases of the circulatory system,Other forms of heart disease
+I313,Pericardial effusion (noninflammatory),Diseases of the circulatory system,Other forms of heart disease
+I319,"Disease of pericardium, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I330,Acute and subacute infective endocarditis,Diseases of the circulatory system,Other forms of heart disease
+I340,Mitral (valve) insufficiency,Diseases of the circulatory system,Other forms of heart disease
+I341,Mitral (valve) prolapse,Diseases of the circulatory system,Other forms of heart disease
+I350,Aortic (valve) stenosis,Diseases of the circulatory system,Other forms of heart disease
+I351,Aortic (valve) insufficiency,Diseases of the circulatory system,Other forms of heart disease
+I352,Aortic (valve) stenosis with insufficiency,Diseases of the circulatory system,Other forms of heart disease
+I361,Nonrheumatic tricuspid (valve) insufficiency,Diseases of the circulatory system,Other forms of heart disease
+I370,Pulmonary valve stenosis,Diseases of the circulatory system,Other forms of heart disease
+I371,Pulmonary valve insufficiency,Diseases of the circulatory system,Other forms of heart disease
+I378,Other pulmonary valve disorders,Diseases of the circulatory system,Other forms of heart disease
+I38,"Endocarditis, valve unspecified",Diseases of the circulatory system,Other forms of heart disease
+I400,Infective myocarditis,Diseases of the circulatory system,Other forms of heart disease
+I408,Other acute myocarditis,Diseases of the circulatory system,Other forms of heart disease
+I420,Dilated cardiomyopathy,Diseases of the circulatory system,Other forms of heart disease
+I421,Obstructive hypertrophic cardiomyopathy,Diseases of the circulatory system,Other forms of heart disease
+I422,Other hypertrophic cardiomyopathy,Diseases of the circulatory system,Other forms of heart disease
+I427,Cardiomyopathy due to drugs and other external agents,Diseases of the circulatory system,Other forms of heart disease
+I428,Other cardiomyopathies,Diseases of the circulatory system,Other forms of heart disease
+I429,"Cardiomyopathy, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I440,"Atrioventricular block, first degree",Diseases of the circulatory system,Other forms of heart disease
+I441,"Atrioventricular block, second degree",Diseases of the circulatory system,Other forms of heart disease
+I442,"Atrioventricular block, complete",Diseases of the circulatory system,Other forms of heart disease
+I446,Other and unspecified fascicular block,Diseases of the circulatory system,Other forms of heart disease
+I456,Pre-excitation syndrome,Diseases of the circulatory system,Other forms of heart disease
+I458,Other specified conduction disorders,Diseases of the circulatory system,Other forms of heart disease
+I460,Cardiac arrest with successful resuscitation,Diseases of the circulatory system,Other forms of heart disease
+I469,"Cardiac arrest, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I471,Supraventricular tachycardia,Diseases of the circulatory system,Other forms of heart disease
+I472,Ventricular tachycardia,Diseases of the circulatory system,Other forms of heart disease
+I48,Atrial fibrillation and flutter,Diseases of the circulatory system,Other forms of heart disease
+I480,Paroxysmal atrial fibrillation,Diseases of the circulatory system,Other forms of heart disease
+I489,"Atrial fibrillation and atrial flutter, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I490,Ventricular fibrillation and flutter,Diseases of the circulatory system,Other forms of heart disease
+I493,Ventricular premature depolarization,Diseases of the circulatory system,Other forms of heart disease
+I495,Sick sinus syndrome,Diseases of the circulatory system,Other forms of heart disease
+I498,Other specified cardiac arrhythmias,Diseases of the circulatory system,Other forms of heart disease
+I499,"Cardiac arrhythmia, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I500,Congestive heart failure,Diseases of the circulatory system,Other forms of heart disease
+I501,Left ventricular failure,Diseases of the circulatory system,Other forms of heart disease
+I509,"Heart failure, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I510,"Cardiac septal defect, acquired",Diseases of the circulatory system,Other forms of heart disease
+I514,"Myocarditis, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I518,Other ill-defined heart diseases,Diseases of the circulatory system,Other forms of heart disease
+I519,"Heart disease, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I600,Subarachnoid haemorrhage from carotid siphon and bifurcation,Diseases of the circulatory system,Cerebrovascular diseases
+I601,Subarachnoid haemorrhage from middle cerebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+I602,Subarachnoid haemorrhage from anterior communicating artery,Diseases of the circulatory system,Cerebrovascular diseases
+I603,Subarachnoid haemorrhage from posterior communicating artery,Diseases of the circulatory system,Cerebrovascular diseases
+I604,Subarachnoid haemorrhage from basilar artery,Diseases of the circulatory system,Cerebrovascular diseases
+I605,Subarachnoid haemorrhage from vertebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+I606,Subarachnoid haemorrhage from other intracranial arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I607,"Subarachnoid haemorrhage from intracranial artery, unspecified",Diseases of the circulatory system,Cerebrovascular diseases
+I608,Other subarachnoid haemorrhage,Diseases of the circulatory system,Cerebrovascular diseases
+I609,"Subarachnoid haemorrhage, unspecified",Diseases of the circulatory system,Cerebrovascular diseases
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",Diseases of the circulatory system,Cerebrovascular diseases
+I611,"Intracerebral haemorrhage in hemisphere, cortical",Diseases of the circulatory system,Cerebrovascular diseases
+I613,Intracerebral haemorrhage in brain stem,Diseases of the circulatory system,Cerebrovascular diseases
+I614,Intracerebral haemorrhage in cerebellum,Diseases of the circulatory system,Cerebrovascular diseases
+I615,"Intracerebral haemorrhage, intraventricular",Diseases of the circulatory system,Cerebrovascular diseases
+I618,Other intracerebral haemorrhage,Diseases of the circulatory system,Cerebrovascular diseases
+I619,"Intracerebral haemorrhage, unspecified",Diseases of the circulatory system,Cerebrovascular diseases
+I620,Subdural haemorrhage (acute)(nontraumatic),Diseases of the circulatory system,Cerebrovascular diseases
+I621,Nontraumatic extradural haemorrhage,Diseases of the circulatory system,Cerebrovascular diseases
+I629,"Intracranial haemorrhage (nontraumatic), unspecified",Diseases of the circulatory system,Cerebrovascular diseases
+I630,Cerebral infarction due to thrombosis of precerebral arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I631,Cerebral infarction due to embolism of precerebral arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I633,Cerebral infarction due to thrombosis of cerebral arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I634,Cerebral infarction due to embolism of cerebral arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I638,Other cerebral infarction,Diseases of the circulatory system,Cerebrovascular diseases
+I639,"Cerebral infarction, unspecified",Diseases of the circulatory system,Cerebrovascular diseases
+I64,"Stroke, not specified as haemorrhage or infarction",Diseases of the circulatory system,Cerebrovascular diseases
+I651,Occlusion and stenosis of basilar artery,Diseases of the circulatory system,Cerebrovascular diseases
+I652,Occlusion and stenosis of carotid artery,Diseases of the circulatory system,Cerebrovascular diseases
+I658,Occlusion and stenosis of other precerebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+I660,Occlusion and stenosis of middle cerebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+I663,Occlusion and stenosis of cerebellar arteries,Diseases of the circulatory system,Cerebrovascular diseases
+I668,Occlusion and stenosis of other cerebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+I670,"Dissection of cerebral arteries, nonruptured",Diseases of the circulatory system,Cerebrovascular diseases
+I671,"Cerebral aneurysm, nonruptured",Diseases of the circulatory system,Cerebrovascular diseases
+I674,Hypertensive encephalopathy,Diseases of the circulatory system,Cerebrovascular diseases
+I675,Moyamoya disease,Diseases of the circulatory system,Cerebrovascular diseases
+I676,Nonpyogenic thrombosis of intracranial venous system,Diseases of the circulatory system,Cerebrovascular diseases
+I677,"Cerebral arteritis, not elsewhere classified",Diseases of the circulatory system,Cerebrovascular diseases
+I678,Other specified cerebrovascular diseases,Diseases of the circulatory system,Cerebrovascular diseases
+I691,Sequelae of intracerebral haemorrhage,Diseases of the circulatory system,Cerebrovascular diseases
+I693,Sequelae of cerebral infarction,Diseases of the circulatory system,Cerebrovascular diseases
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",Diseases of the circulatory system,Cerebrovascular diseases
+I701,Atherosclerosis of renal artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I7010,Atherosclerosis of renal artery without gangrene,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I7020,Atherosclerosis of arteries of extremities without gangrene,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I7021,Atherosclerosis of arteries of lower extremities with gangrene,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I710,Dissection of aorta [any part],Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I711,"Thoracic aortic aneurysm, ruptured",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I712,"Thoracic aortic aneurysm, without mention of rupture",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I713,"Abdominal aortic aneurysm, ruptured",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I714,"Abdominal aortic aneurysm, without mention of rupture",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I715,"Thoracoabdominal aortic aneurysm, ruptured",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I716,"Thoracoabdominal aortic aneurysm, without mention of rupture",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I719,"Aortic aneurysm of unspecified site, without mention of rupture",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I720,Aneurysm and dissection of carotid artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I721,Aneurysm and dissection of artery of upper extremity,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I722,Aneurysm and dissection of renal artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I723,Aneurysm and dissection of iliac artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I724,Aneurysm and dissection of artery of lower extremity,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I726,Aneurysm and dissection of vertebral artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I728,Aneurysm and dissection of other specified arteries,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I731,Thromboangiitis obliterans [Buerger],Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I738,Other specified peripheral vascular diseases,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I739,"Peripheral vascular disease, unspecified",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I740,Embolism and thrombosis of abdominal aorta,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I741,Embolism and thrombosis of other and unspecified parts of aorta,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I742,Embolism and thrombosis of arteries of the upper extremities,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I743,Embolism and thrombosis of arteries of the lower extremities,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I744,"Embolism and thrombosis of arteries of extremities, unspecified",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I745,Embolism and thrombosis of iliac artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I748,Embolism and thrombosis of other arteries,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I749,Embolism and thrombosis of unspecified artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I770,"Arteriovenous fistula, acquired",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I771,Stricture of artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I772,Rupture of artery,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I774,Coeliac artery compression syndrome,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I776,"Arteritis, unspecified",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I778,Other specified disorders of arteries and arterioles,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I779,"Disorder of arteries and arterioles, unspecified",Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I801,Phlebitis and thrombophlebitis of femoral vein,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I802,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I803,"Phlebitis and thrombophlebitis of lower extremities, unspecified",Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I808,Phlebitis and thrombophlebitis of other sites,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I809,Phlebitis and thrombophlebitis of unspecified site,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I81,Portal vein thrombosis,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I822,Embolism and thrombosis of vena cava,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I828,Embolism and thrombosis of other specified veins,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I830,Varicose veins of lower extremities with ulcer,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I831,Varicose veins of lower extremities with inflammation,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I839,Varicose veins of lower extremities without ulcer or inflammation,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I840,Internal thrombosed haemorrhoids,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I841,Internal haemorrhoids with other complications,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I842,Internal haemorrhoids without complication,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I843,External thrombosed haemorrhoids,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I845,External haemorrhoids without complication,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I848,Unspecified haemorrhoids with other complications,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I849,Unspecified haemorrhoids without complication,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I850,Oesophageal varices with bleeding,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I859,Oesophageal varices without bleeding,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I861,Scrotal varices,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I864,Gastric varices,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I8640,Gastric varices with bleeding,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I868,Varicose veins of other specified sites,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I871,Compression of vein,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I872,Venous insufficiency (chronic)(peripheral),Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I880,Nonspecific mesenteric lymphadenitis,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I889,"Nonspecific lymphadenitis, unspecified",Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I890,"Lymphoedema, not elsewhere classified",Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I891,Lymphangitis,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I898,Other specified noninfective disorders of lymphatic vessels and lymph nodes,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I951,Orthostatic hypotension,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+I952,Hypotension due to drugs,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+I959,"Hypotension, unspecified",Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+I970,Postcardiotomy syndrome,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+A400,"Sepsis due to Streptococcus, group A",Certain infectious and parasitic diseases,Other bacterial diseases
+I020,Rheumatic chorea with heart involvement,Diseases of the circulatory system,Acute rheumatic fever
+L508,Other urticaria,Diseases of the skin and subcutaneous tissue,Urticaria and erythema
+M2556,Pain in joint: lower leg,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M2557,Pain in joint: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+E871,Hyposmolality and hyponatraemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E876,Hypokalaemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+D509,"Iron deficiency anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Nutritional anaemias
+N922,Excessive menstruation at puberty,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+B029,Zoster without complication,Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions
+B182,Chronic viral hepatitis C,Certain infectious and parasitic diseases,Viral hepatitis
+B24,Unspecified human immunodeficiency virus [HIV] disease,Certain infectious and parasitic diseases,Human immunodeficiency virus [HIV] disease
+C187,"Malignant neoplasm of colon, sigmoid colon",Neoplasms,Malignant neoplasms
+C509,"Malignant neoplasm of breast, unspecified",Neoplasms,Malignant neoplasms
+C793,Secondary malignant neoplasm of brain and cerebral meninges,Neoplasms,Malignant neoplasms
+D569,"Thalassaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D65,Disseminated intravascular coagulation [defibrination syndrome],Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D689,"Coagulation defect, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+E059,"Thyrotoxicosis, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E113,"Type 2 diabetes mellitus, with ophthalmic complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E119,"Type 2 diabetes mellitus, without complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E149,"Diabetes mellitus, without complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E213,"Hyperparathyroidism, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E46,Unspecified protein-energy malnutrition,"Endocrine, nutritional and metabolic diseases",Malnutrition
+E785,"Hyperlipidaemia, unspecified","Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E789,"Disorder of lipoprotein metabolism, unspecified","Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E834,Disorders of magnesium metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E872,Acidosis,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E875,Hyperkalaemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E877,Fluid overload,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+G459,"Transient cerebral ischaemic attack, unspecified",Diseases of the nervous system,Episodic and paroxysmal disorders
+G460,Middle cerebral artery syndrome (I66.0+),Diseases of the nervous system,Episodic and paroxysmal disorders
+G819,"Hemiplegia, unspecified",Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+H3602,Proliferative diabetic retinopathy (PDR),Diseases of the eye and adnexa,Disorders of choroid and retina
+I062,Rheumatic aortic stenosis with insufficiency,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I081,Disorders of both mitral and tricuspid valves,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I513,"Intracardiac thrombosis, not elsewhere classified",Diseases of the circulatory system,Other forms of heart disease
+J156,Pneumonia due to other aerobic gram-negative bacteria,Diseases of the respiratory system,Influenza and pneumonia
+J40,"Bronchitis, not specified as acute or chronic",Diseases of the respiratory system,Chronic lower respiratory diseases
+J449,"Chronic obstructive pulmonary disease, unspecified",Diseases of the respiratory system,Chronic lower respiratory diseases
+J459,"Asthma, unspecified",Diseases of the respiratory system,Chronic lower respiratory diseases
+J960,Acute respiratory failure,Diseases of the respiratory system,Other diseases of the respiratory system
+K029,"Dental caries, unspecified",Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+K219,Gastro-oesophageal reflux disease without oesophagitis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K703,Alcoholic cirrhosis of liver,Diseases of the digestive system,Diseases of liver
+K859,"Acute pancreatitis, unspecified",Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+L509,"Urticaria, unspecified",Diseases of the skin and subcutaneous tissue,Urticaria and erythema
+N179,"Acute renal failure, unspecified",Diseases of the genitourinary system,Renal failure
+N185,"Chronic kidney disease, stage 5",Diseases of the genitourinary system,Renal failure
+N390,"Urinary tract infection, site not specified",Diseases of the genitourinary system,Other diseases of urinary system
+N40,Hyperplasia of prostate,Diseases of the genitourinary system,Diseases of male genital organs
+N858,Other specified noninflammatory disorders of uterus,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q211,Atrial septal defect,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q240,Dextrocardia,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+R570,Cardiogenic shock,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R572,Septic shock,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R731,Impaired fasting glucose,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+N189,"Chronic kidney disease, unspecified",Diseases of the genitourinary system,Renal failure
+Q242,Cor triatriatum,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+D683,Haemorrhagic disorder due to circulating anticoagulants,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+E039,"Hypothyroidism, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+M1099,"Gout, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+N183,"Chronic kidney disease, stage 3",Diseases of the genitourinary system,Renal failure
+M314,Aortic arch syndrome [Takayasu],Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+A410,Sepsis due to Staphylococcus aureus,Certain infectious and parasitic diseases,Other bacterial diseases
+D638,Anaemia in other chronic diseases classified elsewhere,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+E162,"Hypoglycaemia, unspecified","Endocrine, nutritional and metabolic diseases",Other disorders of glucose regulation and pancreatic internal secretion
+J90,"Pleural effusion, not elsewhere classified",Diseases of the respiratory system,Other diseases of pleura
+J981,Pulmonary collapse,Diseases of the respiratory system,Other diseases of the respiratory system
+K729,"Hepatic failure, unspecified",Diseases of the digestive system,Diseases of liver
+R739,"Hyperglycaemia, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+T820,Mechanical complication of heart valve prosthesis,"Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+D508,Other iron deficiency anaemias,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Nutritional anaemias
+E559,"Vitamin D deficiency, unspecified","Endocrine, nutritional and metabolic diseases",Other nutritional deficiencies
+F329,"Depressive episode, unspecified",Mental and behavioural disorders,Mood [affective] disorders
+F432,Adjustment disorders,Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+G255,Other chorea,Diseases of the nervous system,Extrapyramidal and movement disorders
+A419,"Sepsis, unspecified",Certain infectious and parasitic diseases,Other bacterial diseases
+B378,Candidiasis of other sites,Certain infectious and parasitic diseases,Mycoses
+B909,Sequelae of respiratory and unspecified tuberculosis,Certain infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+B962,Escherichia coli [E. coli] as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+C20,Malignant neoplasm of rectum,Neoplasms,Malignant neoplasms
+D350,Benign neoplasm of adrenal gland,Neoplasms,Benign neoplasms
+D649,"Anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+D692,Other nonthrombocytopenic purpura,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D696,"Thrombocytopenia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+E042,Nontoxic multinodular goitre,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E049,"Nontoxic goitre, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E063,Autoimmune thyroiditis,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E112,"Type 2 diabetes mellitus, with renal complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E117,"Type 2 diabetes mellitus, with multiple complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E208,Other hypoparathyroidism,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E249,"Cushing's syndrome, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E260,Primary hyperaldosteronism,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E269,"Hyperaldosteronism, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E668,Other obesity,"Endocrine, nutritional and metabolic diseases",Obesity and other hyperalimentation
+E669,"Obesity, unspecified","Endocrine, nutritional and metabolic diseases",Obesity and other hyperalimentation
+E873,Alkalosis,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E890,Postprocedural hypothyroidism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F840,Childhood autism,Mental and behavioural disorders,Disorders of psychological development
+F900,Disturbance of activity and attention,Mental and behavioural disorders,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+G442,Tension-type headache,Diseases of the nervous system,Episodic and paroxysmal disorders
+G473,Sleep apnoea,Diseases of the nervous system,Episodic and paroxysmal disorders
+G629,"Polyneuropathy, unspecified",Diseases of the nervous system,Polyneuropathies and other disorders of the peripheral nervous system
+H350,Background retinopathy and retinal vascular changes,Diseases of the eye and adnexa,Disorders of choroid and retina
+H360,Diabetic retinopathy (E10-E14+ with common fourth character .3),Diseases of the eye and adnexa,Disorders of choroid and retina
+H409,"Glaucoma, unspecified",Diseases of the eye and adnexa,Glaucoma
+I517,Cardiomegaly,Diseases of the circulatory system,Other forms of heart disease
+J189,"Pneumonia, unspecified",Diseases of the respiratory system,Influenza and pneumonia
+J81,Pulmonary oedema,Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+K250,Gastric ulcer: acute with haemorrhage,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K30,Functional dyspepsia,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K449,Diaphragmatic hernia without obstruction or gangrene,Diseases of the digestive system,Hernia
+K758,Other specified inflammatory liver diseases,Diseases of the digestive system,Diseases of liver
+M0699,"Rheumatoid arthritis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1189,Other specified crystal arthropathies: site unspecified,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M179,"Gonarthrosis, unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M4206,Juvenile osteochondrosis of spine: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4316,Spondylolisthesis: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4786,Other spondylosis: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M8199,"Osteoporosis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N001,Acute nephritic syndrome: focal and segmental glomerular lesions,Diseases of the genitourinary system,Glomerular diseases
+N083,Glomerular disorders in diabetes mellitus (E10-E14+ with common fourth character .2),Diseases of the genitourinary system,Glomerular diseases
+N10,Acute tubulo-interstitial nephritis,Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+N184,"Chronic kidney disease, stage 4",Diseases of the genitourinary system,Renal failure
+N300,Acute cystitis,Diseases of the genitourinary system,Other diseases of urinary system
+N939,"Abnormal uterine and vaginal bleeding, unspecified",Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q447,Other congenital malformations of liver,"Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations of the digestive system
+Q938,Other deletions from the autosomes,"Congenital malformations, deformations and chromosomal abnormalities","Chromosomal abnormalities, not elsewhere classified"
+R001,"Bradycardia, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R31,Unspecified haematuria,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the urinary system
+R42,Dizziness and giddiness,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R730,Abnormal glucose tolerance test,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+R80,Isolated proteinuria,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of urine, without diagnosis"
+T810,"Haemorrhage and haematoma complicating a procedure, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+A090,Other and unspecified gastroenteritis and colitis of infectious origin,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+A199,"Miliary tuberculosis, unspecified",Certain infectious and parasitic diseases,Tuberculosis
+C61,Malignant neoplasm of prostate,Neoplasms,Malignant neoplasms
+C679,"Malignant neoplasm of bladder, unspecified",Neoplasms,Malignant neoplasms
+D721,Eosinophilia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+E222,Syndrome of inappropriate secretion of antidiuretic hormone,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E274,Other and unspecified adrenocortical insufficiency,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E833,Disorders of phosphorus metabolism and phosphatases,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E835,Disorders of calcium metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+H405,Glaucoma secondary to other eye disorders,Diseases of the eye and adnexa,Glaucoma
+J209,"Acute bronchitis, unspecified",Diseases of the respiratory system,Other acute lower respiratory infections
+J441,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",Diseases of the respiratory system,Chronic lower respiratory diseases
+J939,"Pneumothorax, unspecified",Diseases of the respiratory system,Other diseases of pleura
+K279,"Peptic ulcer, site unspecified: unspecified as acute or chronic, without haemorrhage or perforation",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K922,"Gastrointestinal haemorrhage, unspecified",Diseases of the digestive system,Other diseases of the digestive system
+L031,Cellulitis of other parts of limb,Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L890,Stage I decubitus ulcer and pressure area,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M321,Systemic lupus erythematosus with involvement of organs and systems,Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M4800,Spinal stenosis: Multiple sites in spine,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6099,"Myositis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M729,"Fibroblastic disorder, unspecified",Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+N019,Rapidly progressive nephritis syndrome: unspecified,Diseases of the genitourinary system,Glomerular diseases
+N049,Nephrotic syndrome: unspecified,Diseases of the genitourinary system,Glomerular diseases
+N085,Glomerular disorders in systemic connective tissue disorders,Diseases of the genitourinary system,Glomerular diseases
+N170,Acute renal failure with tubular necrosis,Diseases of the genitourinary system,Renal failure
+N19,Unspecified kidney failure,Diseases of the genitourinary system,Renal failure
+R18,Ascites,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R190,"Intra-abdominal and pelvic swelling, mass and lump","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R222,"Localized swelling, mass and lump, trunk","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+R36,Urethral discharge,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the urinary system
+R509,"Fever, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R579,"Shock, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+F03,Unspecified dementia,Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+G309,"Alzheimer's disease, unspecified",Diseases of the nervous system,Other degenerative diseases of the nervous system
+J304,"Allergic rhinitis, unspecified",Diseases of the respiratory system,Other diseases of upper respiratory tract
+N182,"Chronic kidney disease, stage 2",Diseases of the genitourinary system,Renal failure
+C220,Liver cell carcinoma,Neoplasms,Malignant neoplasms
+J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,Diseases of the respiratory system,Chronic lower respiratory diseases
+K720,Acute and subacute hepatic failure,Diseases of the digestive system,Diseases of liver
+N643,Galactorrhoea not associated with childbirth,Diseases of the genitourinary system,Disorders of breast
+R571,Hypovolaemic shock,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+D619,"Aplastic anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+D731,Hypersplenism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+K746,Other and unspecified cirrhosis of liver,Diseases of the digestive system,Diseases of liver
+R770,Abnormality of albumin,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+N009,Acute nephritic syndrome: unspecified,Diseases of the genitourinary system,Glomerular diseases
+M1006,Idiopathic gout: lower leg,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M189,"Arthrosis of first carpometacarpal joint, unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",Certain infectious and parasitic diseases,Tuberculosis
+A415,Sepsis due to other gram-negative organisms,Certain infectious and parasitic diseases,Other bacterial diseases
+B961,Klebsiella pneumoniae [K.pneumoniae] as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+D62,Acute posthaemorrhagic anaemia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+E02,Subclinical iodine-deficiency hypothyroidism,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+F059,"Delirium, unspecified",Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+G20,Parkinson's disease,Diseases of the nervous system,Extrapyramidal and movement disorders
+I451,Other and unspecified right bundle-branch block,Diseases of the circulatory system,Other forms of heart disease
+J155,Pneumonia due to Escherichia coli,Diseases of the respiratory system,Influenza and pneumonia
+J181,"Lobar pneumonia, unspecified",Diseases of the respiratory system,Influenza and pneumonia
+J984,Other disorders of lung,Diseases of the respiratory system,Other diseases of the respiratory system
+K573,Diverticular disease of large intestine without perforation or abscess,Diseases of the digestive system,Other diseases of intestines
+K750,Abscess of liver,Diseases of the digestive system,Diseases of liver
+K754,Autoimmune hepatitis,Diseases of the digestive system,Diseases of liver
+K819,"Cholecystitis, unspecified",Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+M4696,"Inflammatory spondylopathy, unspecified: Lumbar region",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+R392,Extrarenal uraemia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the urinary system
+A418,Other specified sepsis,Certain infectious and parasitic diseases,Other bacterial diseases
+J150,Pneumonia due to Klebsiella pneumoniae,Diseases of the respiratory system,Influenza and pneumonia
+J159,"Bacterial pneumonia, unspecified",Diseases of the respiratory system,Influenza and pneumonia
+R090,Asphyxia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+K769,"Liver disease, unspecified",Diseases of the digestive system,Diseases of liver
+A020,Salmonella enteritis,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",Certain infectious and parasitic diseases,Tuberculosis
+C029,"Malignant neoplasm of other and unspecified parts of tongue, unspecified",Neoplasms,Malignant neoplasms
+C166,"Malignant neoplasm of stomach, greater curvature of stomach, unspecified",Neoplasms,Malignant neoplasms
+D500,Iron deficiency anaemia secondary to blood loss (chronic),Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Nutritional anaemias
+D599,"Acquired haemolytic anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+E041,Nontoxic single thyroid nodule,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E111,"Type 2 diabetes mellitus, with ketoacidosis","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E781,Pure hyperglyceridaemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E790,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F171,Mental and behavioral disorders due to use of tobacco: Harmful use,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F172,Mental and behavioral disorders due to use of tobacco: Dependence sydrome,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+G253,Myoclonus,Diseases of the nervous system,Extrapyramidal and movement disorders
+G723,Periodic paralysis,Diseases of the nervous system,Diseases of myoneural junction and muscle
+G931,"Anoxic brain damage, not elsewhere classified",Diseases of the nervous system,Other disorders of the nervous system
+I232,Ventricular septal defect as current complication following acute myocardial infarction,Diseases of the circulatory system,Ischaemic heart diseases
+I99,Other and unspecified disorders of circulatory system,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+J029,"Acute pharyngitis, unspecified",Diseases of the respiratory system,Acute upper respiratory infections
+J154,Pneumonia due to other streptococci,Diseases of the respiratory system,Influenza and pneumonia
+K297,"Gastritis, unspecified",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K631,Perforation of intestine (nontraumatic),Diseases of the digestive system,Other diseases of intestines
+K633,Ulcer of intestine,Diseases of the digestive system,Other diseases of intestines
+K763,Infarction of liver,Diseases of the digestive system,Diseases of liver
+M1009,Idiopathic gout: site unspecified,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1399,"Arthritis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M171,Other primary gonarthrosis,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M6288,Other specified disorders of muscle: other,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M750,Adhesive capsulitis of shoulder,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+N141,"Nephropathy induced by other drugs, medicaments and biological substances",Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+N200,Calculus of kidney,Diseases of the genitourinary system,Urolithiasis
+N309,"Cystitis, unspecified",Diseases of the genitourinary system,Other diseases of urinary system
+N485,Ulcer of penis,Diseases of the genitourinary system,Diseases of male genital organs
+N832,Other and unspecified ovarian cysts,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+N920,Excessive and frequent menstruation with regular cycle,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q210,Ventricular septal defect,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+R33,Retention of urine,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the urinary system
+R35,Polyuria,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the urinary system
+R51,Headache,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R945,Abnormal results of liver function studies,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+A099,Gastroenteritis and colitis of unspecified origin,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+B181,Chronic viral hepatitis B without delta-agent,Certain infectious and parasitic diseases,Viral hepatitis
+D469,"Myelodysplastic syndrome, unspecified",Neoplasms,Neoplasms of uncertain or unknown behaviour
+E110,"Type 2 diabetes mellitus, with coma","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+F419,"Anxiety disorder, unspecified",Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+H811,Benign paroxysmal vertigo,Diseases of the ear and mastoid process,Diseases of inner ear
+I461,"Sudden cardiac death, so described",Diseases of the circulatory system,Other forms of heart disease
+K659,"Peritonitis, unspecified",Diseases of the digestive system,Diseases of peritoneum
+K759,"Inflammatory liver disease, unspecified",Diseases of the digestive system,Diseases of liver
+K760,"Fatty (change of) liver, not elsewhere classified",Diseases of the digestive system,Diseases of liver
+K761,Chronic passive congestion of liver,Diseases of the digestive system,Diseases of liver
+L409,"Psoriasis, unspecified",Diseases of the skin and subcutaneous tissue,Papulosquamous disorders
+M4809,Spinal stenosis: Site unspecified,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6282,Other specified disorders of muscle: upper arm,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+R042,Haemoptysis,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R568,Other and unspecified convulsions,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+T801,"Vascular complications following infusion, transfusion and therapeutic injection","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+T802,"Infections following infusion, transfusion and therapeutic injection","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+T823,Mechanical complication of other vascular grafts,"Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+N202,Calculus of kidney with calculus of ureter,Diseases of the genitourinary system,Urolithiasis
+C349,"Malignant neoplasm of bronchus or lung, unspecified",Neoplasms,Malignant neoplasms
+C541,Malignant neoplasm of endometrium,Neoplasms,Malignant neoplasms
+C56,Malignant neoplasm of ovary,Neoplasms,Malignant neoplasms
+C780,Secondary malignant neoplasm of lung,Neoplasms,Malignant neoplasms
+C797,Secondary malignant neoplasm of adrenal gland,Neoplasms,Malignant neoplasms
+E115,"Type 2 diabetes mellitus, with peripherl circulatory complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E230,Hypopituitarism,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E870,Hyperosmolality and hypernatraemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F104,Mental and behavioral disorders due to use of alcohol: Withdrawal state with delirium,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F200,Paranoid schizophrenia,Mental and behavioural disorders,"Schizophrenia, schizotypal and delusional disorders"
+G403,Generalized idiopathic epilepsy and epileptic syndromes,Diseases of the nervous system,Episodic and paroxysmal disorders
+G419,"Status epilepticus, unspecified",Diseases of the nervous system,Episodic and paroxysmal disorders
+G822,"Paraplegia, unspecified",Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+G934,"Encephalopathy, unspecified",Diseases of the nervous system,Other disorders of the nervous system
+G952,"Cord compression, unspecified",Diseases of the nervous system,Other disorders of the nervous system
+I259,"Chronic ischaemic heart disease, unspecified",Diseases of the circulatory system,Ischaemic heart diseases
+J00,Acute nasopharyngitis [common cold],Diseases of the respiratory system,Acute upper respiratory infections
+J100,"Influenza with pneumonia, other influenza virus identified",Diseases of the respiratory system,Influenza and pneumonia
+J108,"Influenza with other manifestations, other influenza virus identified",Diseases of the respiratory system,Influenza and pneumonia
+J129,"Viral pneumonia, unspecified",Diseases of the respiratory system,Influenza and pneumonia
+J690,Pneumonitis due to food and vomit,Diseases of the respiratory system,Lung diseases due to external agents
+J80,Adult respiratory distress syndrome,Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+K221,Ulcer of oesophagus,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K259,"Gastric ulcer: unspecified as acute or chronic, without haemorrhage or perforation",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K290,Acute haemorrhagic gastritis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K625,Haemorrhage of anus and rectum,Diseases of the digestive system,Other diseases of intestines
+K635,Polyp of colon,Diseases of the digestive system,Other diseases of intestines
+L030,Cellulitis of finger and toe,Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L97,"Ulcer of lower limb, not elsewhere classified",Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M1000,Idiopathic gout: multiple sites,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1007,Idiopathic gout: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M329,"Systemic lupus erythematosus, unspecified",Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M4788,Other spondylosis: Sacral and sacrococcygeal region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6289,Other specified disorders of muscle: site unspecified,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M9408,Chondrocostal junction syndrome [Tietze]: other,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+M9488,Other specified disorders of cartilage: other,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N059,Nephritic syndrome: unspecified,Diseases of the genitourinary system,Glomerular diseases
+N142,"Nephropathy induced by unspecified drug, medicament or biological substance",Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+R05,Cough,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R062,Wheezing,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R409,"Alteration of consciousness, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R633,Feeding difficulties and mismanagement,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R936,Abnormal findings on diagnostic imaging of limbs,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+T827,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+A047,Enterocolitis due to Clostridium difficile,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+A073,Isosporiasis,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+A180,Tuberculosis of bones and joints,Certain infectious and parasitic diseases,Tuberculosis
+A403,Sepsis due to Streptococcus pneumoniae,Certain infectious and parasitic diseases,Other bacterial diseases
+B200,HIV disease resulting in mycobacterial infection,Certain infectious and parasitic diseases,Human immunodeficiency virus [HIV] disease
+B309,"Viral conjunctivitis, unspecified",Certain infectious and parasitic diseases,Other viral diseases
+B349,"Viral infection, unspecified",Certain infectious and parasitic diseases,Other viral diseases
+B377,Candidal sepsis,Certain infectious and parasitic diseases,Mycoses
+B440,Invasive pulmonary aspergillosis,Certain infectious and parasitic diseases,Mycoses
+B952,"Streptococcus, group D, as the cause of diseases classified to other chapters",Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+B964,Proteus (mirabilis)(morganii) as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+B968,Other specified bacterial agents as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+C184,"Malignant neoplasm of colon, transverse colon",Neoplasms,Malignant neoplasms
+C539,"Malignant neoplasm of cervix uteri, unspecified",Neoplasms,Malignant neoplasms
+C680,Malignant neoplasm of urethra,Neoplasms,Malignant neoplasms
+C760,"Malignant neoplasm of head, face and neck",Neoplasms,Malignant neoplasms
+C779,"Malignant neoplasm of lymph node, unspecified",Neoplasms,Malignant neoplasms
+C795,Secondary malignant neoplasm of bone and bone marrow,Neoplasms,Malignant neoplasms
+C798,Secondary malignant neoplasm of other specified sites,Neoplasms,Malignant neoplasms
+C900,Multiple myeloma,Neoplasms,Malignant neoplasms
+C911,Chronic lymphocytic leukaemia of B-cell type,Neoplasms,Malignant neoplasms
+C921,"Chronic myeloid leukaemia [CML], bCR/ABL-positive",Neoplasms,Malignant neoplasms
+D259,"Leiomyoma of uterus, unspecified",Neoplasms,Benign neoplasms
+D27,Benign neoplasm of ovary,Neoplasms,Benign neoplasms
+D320,Benign neoplasm of cerebral meninges,Neoplasms,Benign neoplasms
+D550,Anaemia due to glucose-6-phosphate dehydrogenase [G-6-PD] deficiency,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D559,"Anaemia due to enzyme disorder, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D563,Thalassaemia trait,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D591,Other autoimmune haemolytic anaemias,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D630,Anaemia in neoplastic disease (C00-D48+),Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+D686,Other Thrombophilia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D693,Idiopathic thrombocytopenic purpura,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D70,Agranulocytosis,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+D728,Other specified disorders of white blood cells,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+D733,Abscess of spleen,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+D749,"Methaemoglobinaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+D758,Other specified diseases of blood and blood-forming organs,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+E050,Thyrotoxicosis with diffuse goitre,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E109,"Type 1 diabetes mellitus, without complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E214,Other specified disorders of parathyroid gland,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E232,Diabetes insipidus,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E43,Unspecified severe protein-energy malnutrition,"Endocrine, nutritional and metabolic diseases",Malnutrition
+E561,Deficiency of vitamin K,"Endocrine, nutritional and metabolic diseases",Other nutritional deficiencies
+E720,Disorders of amino-acid transport,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E880,"Disorders of plasma-protein metabolism, not elsewhere classified","Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F019,"Vascular dementia, unspecified",Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+F058,Other delirium,Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+F102,Mental and behavioral disorders due to use of alcohol: Dependence sydrome,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F29,Unspecified nonorganic psychosis,Mental and behavioural disorders,"Schizophrenia, schizotypal and delusional disorders"
+F319,"Bipolar affective disorder, unspecified",Mental and behavioural disorders,Mood [affective] disorders
+F322,Severe depressive episode without psychotic symptoms,Mental and behavioural disorders,Mood [affective] disorders
+F411,Generalized anxiety disorder,Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+G405,Special epileptic syndromes,Diseases of the nervous system,Episodic and paroxysmal disorders
+G409,"Epilepsy, unspecified",Diseases of the nervous system,Episodic and paroxysmal disorders
+G700,Myasthenia gravis,Diseases of the nervous system,Diseases of myoneural junction and muscle
+G722,Myopathy due to other toxic agents,Diseases of the nervous system,Diseases of myoneural junction and muscle
+G728,Other specified myopathies,Diseases of the nervous system,Diseases of myoneural junction and muscle
+G908,Other disorders of the autonomic nervous system,Diseases of the nervous system,Other disorders of the nervous system
+H110,Pterygium,Diseases of the eye and adnexa,Disorders of conjunctiva
+H131,Conjunctivitis in infectious and parasitic diseases classified elsewhere,Diseases of the eye and adnexa,Disorders of conjunctiva
+H3600,Nonproliferative diabetic retinopathy (NPDR),Diseases of the eye and adnexa,Disorders of choroid and retina
+H3609,"Diabetic retinopathy, unspecified",Diseases of the eye and adnexa,Disorders of choroid and retina
+H46,Optic neuritis,Diseases of the eye and adnexa,Disorders of optic nerve and visual pathways
+I080,Disorders of both mitral and aortic valves,Diseases of the circulatory system,Chronic rheumatic heart diseases
+I120,Hypertensive renal disease with renal failure,Diseases of the circulatory system,Hypertensive diseases
+I238,Other current complications following acute myocardial infarction,Diseases of the circulatory system,Ischaemic heart diseases
+I253,Aneurysm of heart,Diseases of the circulatory system,Ischaemic heart diseases
+I258,Other forms of chronic ischaemic heart disease,Diseases of the circulatory system,Ischaemic heart diseases
+J151,Pneumonia due to Pseudomonas,Diseases of the respiratory system,Influenza and pneumonia
+J152,Pneumonia due to Staphylococcus,Diseases of the respiratory system,Influenza and pneumonia
+J172,Pneumonia in mycoses classified elsewhere,Diseases of the respiratory system,Influenza and pneumonia
+J180,"Bronchopneumonia, unspecified",Diseases of the respiratory system,Influenza and pneumonia
+J208,Acute bronchitis due to other specified organisms,Diseases of the respiratory system,Other acute lower respiratory infections
+J323,Chronic sphenoidal sinusitis,Diseases of the respiratory system,Other diseases of upper respiratory tract
+J329,"Chronic sinusitis, unspecified",Diseases of the respiratory system,Other diseases of upper respiratory tract
+J342,Deviated nasal septum,Diseases of the respiratory system,Other diseases of upper respiratory tract
+J46,Status asthmaticus,Diseases of the respiratory system,Chronic lower respiratory diseases
+J47,Bronchiectasis,Diseases of the respiratory system,Chronic lower respiratory diseases
+J869,Pyothorax without fistula,Diseases of the respiratory system,Suppurative and necrotic conditions of lower respiratory tract
+J948,Other specified pleural conditions,Diseases of the respiratory system,Other diseases of pleura
+J951,Acute pulmonary insufficiency following thoracic surgery,Diseases of the respiratory system,Other diseases of the respiratory system
+J952,Acute pulmonary insufficiency following nonthoracic surgery,Diseases of the respiratory system,Other diseases of the respiratory system
+J955,Postprocedural subglottic stenosis,Diseases of the respiratory system,Other diseases of the respiratory system
+K053,Chronic periodontitis,Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+K118,Other diseases of salivary glands,Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+K20,Oesophagitis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K210,Gastro-oesophageal reflux disease with oesophagitis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K226,Gastro-oesophageal laceration-haemorrhage syndrome,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K254,Gastric ulcer: chronic or unspecified with haemorrhage,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K295,"Chronic gastritis, unspecified",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K298,Duodenitis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K299,"Gastroduodenitis, unspecified",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K317,Polyp of stomach and duodenum,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K318,Other specified diseases of stomach and duodenum,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K564,Other impaction of intestine,Diseases of the digestive system,Other diseases of intestines
+K566,Other and unspecified intestinal obstruction,Diseases of the digestive system,Other diseases of intestines
+K567,"Ileus, unspecified",Diseases of the digestive system,Other diseases of intestines
+K579,"Diverticular disease of intestine, part unspecified, without perforation or abscess",Diseases of the digestive system,Other diseases of intestines
+K590,Constipation,Diseases of the digestive system,Other diseases of intestines
+K601,Chronic anal fissure,Diseases of the digestive system,Other diseases of intestines
+K626,Ulcer of anus and rectum,Diseases of the digestive system,Other diseases of intestines
+K632,Fistula of intestine,Diseases of the digestive system,Other diseases of intestines
+K638,Other specified diseases of intestine,Diseases of the digestive system,Other diseases of intestines
+K649,"Haemorrhoids, unspecified",Diseases of the digestive system,Other diseases of intestines
+K766,Portal hypertension,Diseases of the digestive system,Diseases of liver
+K802,Calculus of gallbladder without cholecystitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+K920,Haematemesis,Diseases of the digestive system,Other diseases of the digestive system
+K923,"Lower gastrointestinal haemorrhage, unspecified",Diseases of the digestive system,Other diseases of the digestive system
+L022,"Cutaneous abscess, furuncle and carbuncle of trunk",Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L024,"Cutaneous abscess, furuncle and carbuncle of limb",Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L120,Bullous pemphigoid,Diseases of the skin and subcutaneous tissue,Bullous disorders
+M0599,"Seropositive rheumatoid arthritis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M130,"Polyarthritis, unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M349,"Systemic sclerosis, unspecified",Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M4319,Spondylolisthesis: Site unspecified,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M45,Ankylosing spondylitis,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4806,Spinal stenosis: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4908,Tuberculosis of spine (A18.0+): Sacral and sacrococcygeal region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6268,Muscle strain: other,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M6538,Trigger finger: other,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8696,"Osteomyelitis, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N029,Recurrent and persistent haematuria: unspecified,Diseases of the genitourinary system,Glomerular diseases
+N051,Unspecified nephritic syndrome: focal and segmental glomerular lesions,Diseases of the genitourinary system,Glomerular diseases
+N052,Unspecified nephritic syndrome: diffuse membranous glomerulonephritis,Diseases of the genitourinary system,Glomerular diseases
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+N218,Other lower urinary tract calculus,Diseases of the genitourinary system,Urolithiasis
+N319,"Neuromuscular dysfunction of bladder, unspecified",Diseases of the genitourinary system,Other diseases of urinary system
+N394,Other specified urinary incontinence,Diseases of the genitourinary system,Other diseases of urinary system
+N508,Other specified disorders of male genital organs,Diseases of the genitourinary system,Diseases of male genital organs
+N990,Postprocedural renal failure,Diseases of the genitourinary system,Other disorders of genitourinary tract
+R000,"Tachycardia, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R02,"Gangrene, not elsewhere classified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R066,Hiccough,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R101,Pain localized to upper abdomen,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R11,Nausea and vomiting,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R17,Unspecified jaundice,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R55,Syncope and collapse,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R58,"Haemorrhage, not elsewhere classified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R789,"Finding of unspecified substance, not normally found in blood","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+R91,Abnormal findings on diagnostic imaging of lung,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+T814,"Infection following a procedure, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+T825,Mechanical complication of other cardiac and vascular devices and implants,"Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+T828,"Other specified complications of cardiac and vascular prosthetic devices, implants and grafts","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+A048,Other specified bacterial intestinal infections,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+J849,"Interstitial pulmonary disease, unspecified",Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+R233,Spontaneous ecchymoses,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+E278,Other specified disorders of adrenal gland,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+K294,Chronic atrophic gastritis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+M4989,Spondylopathy in other diseases classified elsewhere: Site unspecified,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+B955,Unspecified streptococcus as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+E780,Pure hypercholesterolaemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+K589,Irritable bowel syndrome without diarrhoea,Diseases of the digestive system,Other diseases of intestines
+N820,Vesicovaginal fistula,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+A408,Other streptococcal sepsis,Certain infectious and parasitic diseases,Other bacterial diseases
+A428,Other forms of actinomycosis,Certain infectious and parasitic diseases,Other bacterial diseases
+A521,Symptomatic neurosyphilis,Certain infectious and parasitic diseases,Infections with a predominantly sexual mode of transmission
+A809,"Acute poliomyelitis, unspecified",Certain infectious and parasitic diseases,Viral infections of the central nervous system
+B965,Pseudomonas (aeruginosa) as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+C189,"Malignant neoplasm of colon, unspecified",Neoplasms,Malignant neoplasms
+C37,Malignant neoplasm of thymus,Neoplasms,Malignant neoplasms
+C718,Malignant neoplasm of overlapping lesion of brain,Neoplasms,Malignant neoplasms
+C812,Mixed cellularity (classical) Hodgkin lymphoma,Neoplasms,Malignant neoplasms
+C851,"B-cell lymphoma, unspecified",Neoplasms,Malignant neoplasms
+D34,Benign neoplasm of thyroid gland,Neoplasms,Benign neoplasms
+D371,Benign neoplasm of stomach,Neoplasms,Neoplasms of uncertain or unknown behaviour
+D45,Polycythaemia vera,Neoplasms,Neoplasms of uncertain or unknown behaviour
+D473,Essential (haemorrhagic) thrombocythaemia,Neoplasms,Neoplasms of uncertain or unknown behaviour
+D551,Anaemia due to other disorders of glutathione metabolism,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D582,Other haemoglobinopathies,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D648,Other specified anaemias,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+D684,Acquired coagulation factor deficiency,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D695,Secondary thrombocytopenia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D735,Infarction of spleen,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+D763,Other histiocytosis syndromes,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+E069,"Thyroiditis, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E079,"Disorder of thyroid, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E114,"Type 2 diabetes mellitus, with neurological complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E142,"Unspecified diabetes mellitus, with renal complications","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E211,"Secondary hyperparathyroidism, not elsewhere classified","Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E212,Other hyperparathyroidism,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E271,Primary adrenocortical insufficiency,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E662,Extreme obesity with alveolar hypoventilation,"Endocrine, nutritional and metabolic diseases",Obesity and other hyperalimentation
+E724,Disorders of ornithine metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E778,Other disorders of glycoprotein metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E782,Mixed hyperlipidaemia,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F151,Mental and behavioral disorders due to use of other stimulants including caffeine: Harmful use,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F331,"Recurrent depressive disorder, current episode moderate",Mental and behavioural disorders,Mood [affective] disorders
+F522,Failure of genital response,Mental and behavioural disorders,Behavioural syndromes associated with physiological disturbances and physical factors
+G301,Alzheimer's disease with late onset,Diseases of the nervous system,Other degenerative diseases of the nervous system
+G318,Other specified degenerative diseases of the nervous system,Diseases of the nervous system,Other degenerative diseases of the nervous system
+G470,Disorders of initiating and maintaining sleep [insomnias],Diseases of the nervous system,Episodic and paroxysmal disorders
+G632,Diabetic polyneuropathy (E10-E14+ with common fourth character .4),Diseases of the nervous system,Polyneuropathies and other disorders of the peripheral nervous system
+G992,Myelopathy in diseases classified elsewhere,Diseases of the nervous system,Other disorders of the nervous system
+H259,"Senile cataract, unspecified",Diseases of the eye and adnexa,Disorders of lens
+H332,Serous retinal detachment,Diseases of the eye and adnexa,Disorders of choroid and retina
+H358,Other specified retinal disorders,Diseases of the eye and adnexa,Disorders of choroid and retina
+H813,Other peripheral vertigo,Diseases of the ear and mastoid process,Diseases of inner ear
+H903,"Sensorineural hearing loss, bilateral",Diseases of the ear and mastoid process,Other disorders of ear
+I131,Hypertensive heart and renal disease with renal failure,Diseases of the circulatory system,Hypertensive diseases
+I358,Other aortic valve disorders,Diseases of the circulatory system,Other forms of heart disease
+I425,Other restrictive cardiomyopathy,Diseases of the circulatory system,Other forms of heart disease
+I447,"Left bundle-branch block, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I459,"Conduction disorder, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I690,Sequelae of subarachnoid haemorrhage,Diseases of the circulatory system,Cerebrovascular diseases
+I7000,Atherosclerosis of aorta without gangrene,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I730,Raynaud's syndrome,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+I972,Postmastectomy lymphoedema syndrome,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+J050,Acute obstructive laryngitis [croup],Diseases of the respiratory system,Acute upper respiratory infections
+J439,"Emphysema, unspecified",Diseases of the respiratory system,Chronic lower respiratory diseases
+J61,Pneumoconiosis due to asbestos and other mineral fibres,Diseases of the respiratory system,Lung diseases due to external agents
+J840,Alveolar and parieto-alveolar conditions,Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+J848,Other specified interstitial pulmonary diseases,Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+J950,Tracheostomy malfunction,Diseases of the respiratory system,Other diseases of the respiratory system
+K269,"Duodenal ulcer: unspecified as acute or chronic, without haemorrhage or perforation",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K291,Other acute gastritis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K648,Other specified haemorrhoids,Diseases of the digestive system,Other diseases of intestines
+K650,Acute peritonitis,Diseases of the digestive system,Diseases of peritoneum
+K661,Haemoperitoneum,Diseases of the digestive system,Diseases of peritoneum
+K811,Chronic cholecystitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+L298,Other pruritus,Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+L850,Acquired ichthyosis,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+L891,Stage II decubitus ulcer,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+L892,Stage III decubitus ulcer,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+L929,"Granulomatous disorder of the skin and subcutaneous tissue, unspecified",Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M0299,"Reactive arthopathy, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1096,"Gout, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1129,Other chondrocalcinosis: site unspecified,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1393,"Arthritis, unspecified: forearm",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M146,Neuropathic arthropathy,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M170,"Primary gonarthrosis, bilateral",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M222,Patellofemoral disorders,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M332,Polymyositis,Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M348,Other forms of systemic sclerosis,Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M4712,Other spondylosis with myelopathy: Cervical region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4782,Other spondylosis: Cervical region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4899,"Spondylopathy, unspecified: Site unspecified",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M512,Other specified intervertebral disc displacement,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6226,Ischaemic infarction of muscle: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7266,Necrotising fasciitis: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M751,Rotator cuff syndrome,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M752,Bicipital tendinitis,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8196,"Osteoporosis, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+M8617,Other acute osteomyelitis: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N132,Hydronephrosis with renal and ureteral calculous obstruction,Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+N201,Calculus of ureter,Diseases of the genitourinary system,Urolithiasis
+N281,"Cyst of kidney, acquired",Diseases of the genitourinary system,Other disorders of kidney and ureter
+N701,Chronic salpingitis and oophoritis,Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs
+N870,Mild cervical dysplasia,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q231,Congenital insufficiency of aortic valve,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q251,Coarctation of aorta,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q612,"Polycystic kidney, autosomal dominant","Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the urinary system
+Q800,Ichthyosis vulgaris,"Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations
+R002,Palpitations,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R040,Epistaxis,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R074,"Chest pain, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R21,Rash and other nonspecific skin eruption,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+R221,"Localized swelling, mass and lump, neck","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+R258,Other and unspecified abnormal involuntary movements,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the nervous and musculoskeletal systems
+R410,"Disorientation, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R502,Drug-induced fever,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R578,Other shock,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R740,Elevation of levels of transaminase and lactic acid dehydrogenase [LDH],"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+R828,Abnormal findings on cytological and histological examination of urine,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of urine, without diagnosis"
+R829,Other and unspecified abnormal findings in urine,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of urine, without diagnosis"
+T793,"Post-traumatic wound infection, not elsewhere classified","Injury, poisoning and certain other consequences of external causes",Certain early complications of trauma
+T812,"Accidental puncture and laceration during a procedure, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+T818,"Other complications of procedures, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+I280,Arteriovenous fistula of pulmonary vessels,Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+M303,Mucocutaneous lymph node syndrome [Kawasaki],Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+C182,"Malignant neoplasm of colon, ascending colon",Neoplasms,Malignant neoplasms
+C19,Malignant neoplasm of rectosigmoid junction,Neoplasms,Malignant neoplasms
+C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,Neoplasms,Malignant neoplasms
+C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,Neoplasms,Malignant neoplasms
+C788,Secondary malignant neoplasm of other and unspecified digestive organs,Neoplasms,Malignant neoplasms
+C800,"Malignant neoplasm, primary site unknown, so stated",Neoplasms,Malignant neoplasms
+D136,Benign neoplasm of pancreas,Neoplasms,Benign neoplasms
+D261,Other benign neoplasms of corpus uteri,Neoplasms,Benign neoplasms
+D329,"Benign neoplasm of meninges, unspecified",Neoplasms,Benign neoplasms
+D376,"Benign neoplasm of liver, gallbladder and bile ducts",Neoplasms,Neoplasms of uncertain or unknown behaviour
+D685,Primary Thrombophilia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+D898,"Other specified disorders involving the immune mechanism, not elsewhere classified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Certain disorders involving the immune mechanism
+F050,"Delirium, not superimposed on dementia, so described",Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+F323,Severe depressive episode with psychotic symptoms,Mental and behavioural disorders,Mood [affective] disorders
+G319,"Degenerative disease of the nervous system, unspecified",Diseases of the nervous system,Other degenerative diseases of the nervous system
+G500,Trigeminal neuralgia,Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+G903,Multi-system degeneration,Diseases of the nervous system,Other disorders of the nervous system
+J380,Paralysis of vocal cords and larynx,Diseases of the respiratory system,Other diseases of upper respiratory tract
+K711,Toxic liver disease with hepatic necrosis,Diseases of the digestive system,Diseases of liver
+M1098,"Gout, unspecified: other",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M5499,"Dorsalgia, unspecified: Site unspecified",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+N63,Unspecified lump in breast,Diseases of the genitourinary system,Disorders of breast
+N924,Excessive bleeding in the premenopausal period,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+N938,Other specified abnormal uterine and vaginal bleeding,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q600,"Renal agenesis, unilateral","Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the urinary system
+R194,Change in bowel habit,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+C169,"Malignant neoplasm ot stomach, unspecified",Neoplasms,Malignant neoplasms
+C221,Intrahepatic bile duct carcinoma,Neoplasms,Malignant neoplasms
+C252,"Malignant neoplasm of pancreas, tail of pancreas",Neoplasms,Malignant neoplasms
+C259,"Malignant neoplasm of pancreas, unspecified",Neoplasms,Malignant neoplasms
+C782,Secondary malignant neoplasm of pleura,Neoplasms,Malignant neoplasms
+D121,Benign neoplasm of appendix,Neoplasms,Benign neoplasms
+F453,Somatoform autonomic dysfunction,Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+G92,Toxic encephalopathy,Diseases of the nervous system,Other disorders of the nervous system
+K260,Duodenal ulcer: acute with haemorrhage,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+M1186,Other specified crystal arthropathies: lower leg,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+D560,Alpha thalassaemia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+D561,Beta thalassaemia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+L281,Prurigo nodularis,Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+L304,Erythema intertrigo,Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+L940,Localized scleroderma [morphea],Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+F799,Unspecified mental retardation: without mention of impairment of behaviour,Mental and behavioural disorders,Mental retardation
+I870,Postthrombotic syndrome,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+K529,"Noninfective gastroenteritis and colitis, unspecified",Diseases of the digestive system,Noninfective enteritis and colitis
+M4309,Spondylolysis: Site unspecified,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+N258,Other disorders resulting from impaired renal tubular function,Diseases of the genitourinary system,Other disorders of kidney and ureter
+N800,Endometriosis of uterus,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium","Pregnancy, childbirth and the puerperium","Other obstetric conditions, not elsewhere classified"
+P271,Bronchopulmonary dysplasia originating in the perinatal period,Certain conditions originating in the perinatal period,Respiratory and cardiovascular disorders specific to the perinatal period
+Q250,Patent ductus arteriosus,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q255,Atresia of pulmonary artery,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q909,"Down's syndrome, unspecified","Congenital malformations, deformations and chromosomal abnormalities","Chromosomal abnormalities, not elsewhere classified"
+Q991,"46, XX true hermaphrodite","Congenital malformations, deformations and chromosomal abnormalities","Chromosomal abnormalities, not elsewhere classified"
+J841,Other interstitial pulmonary diseases with fibrosis,Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+K805,Calculus of bile duct without cholangitis or cholecystitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+C830,Small cell B-cell lymphoma,Neoplasms,Malignant neoplasms
+E883,Tumour lysis syndrome,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+A188,Tuberculosis of other specified organs,Certain infectious and parasitic diseases,Tuberculosis
+C771,Malignant neoplasm of intrathoracic lymph nodes,Neoplasms,Malignant neoplasms
+C809,"Malignant neoplasm  primary site, unspecified",Neoplasms,Malignant neoplasms
+I320,Pericarditis in bacterial diseases classified elsewhere,Diseases of the circulatory system,Other forms of heart disease
+I328,Pericarditis in other diseases classified elsewhere,Diseases of the circulatory system,Other forms of heart disease
+L893,Stage IV decubitus ulcer,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+C73,Malignant neoplasm of thyroid gland,Neoplasms,Malignant neoplasms
+M351,Other overlap syndromes,Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+A401,"Sepsis due to Streptococcus, group B",Certain infectious and parasitic diseases,Other bacterial diseases
+A409,"Streptococcal sepsis, unspecified",Certain infectious and parasitic diseases,Other bacterial diseases
+A498,Other bacterial infections of unspecified site,Certain infectious and parasitic diseases,Other bacterial diseases
+B954,Other streptococcus as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+D618,Other specified aplastic anaemias,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+E806,Other disorders of bilirubin metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F106,Mental and behavioral disorders due to use of alcohol: Amnesic syndrome,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+G060,Intracranial abscess and granuloma,Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G911,Obstructive hydrocephalus,Diseases of the nervous system,Other disorders of the nervous system
+H440,Purulent endophthalmitis,Diseases of the eye and adnexa,Disorders of vitreous body and globe
+J958,Other postprocedural respiratory disorders,Diseases of the respiratory system,Other diseases of the respiratory system
+K710,Toxic liver disease with cholestasis,Diseases of the digestive system,Diseases of liver
+K810,Acute cholecystitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+M0098,"Pyogenic arthritis, unspecified: other",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M4646,"Discitis, unspecified: Lumbar region",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4647,"Discitis, unspecified: Lumbosacral region",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+B908,Sequelae of tuberculosis of other organs,Certain infectious and parasitic diseases,Sequelae of infectious and parasitic diseases
+D589,"Hereditary haemolytic anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+F913,Oppositional defiant disorder,Mental and behavioural disorders,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+J942,Haemothorax,Diseases of the respiratory system,Other diseases of pleura
+M0696,"Rheumatoid arthritis, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+N328,Other specified disorders of bladder,Diseases of the genitourinary system,Other diseases of urinary system
+B449,"Aspergillosis, unspecified",Certain infectious and parasitic diseases,Mycoses
+H609,"Otitis externa, unspecified",Diseases of the ear and mastoid process,Diseases of external ear
+J860,Pyothorax with fistula,Diseases of the respiratory system,Suppurative and necrotic conditions of lower respiratory tract
+B209,HIV disease resulting in unspecified infectious or parasitic disease,Certain infectious and parasitic diseases,Human immunodeficiency virus [HIV] disease
+D150,Benign neoplasm of thymus,Neoplasms,Benign neoplasms
+G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple complex seizures,Diseases of the nervous system,Episodic and paroxysmal disorders
+G802,Spastic hemiplegic cerebral palsy,Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+J450,Predominantly allergic asthma,Diseases of the respiratory system,Chronic lower respiratory diseases
+J985,"Diseases of mediastinum, not elsewhere classified",Diseases of the respiratory system,Other diseases of the respiratory system
+K021,Caries of dentine,Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+K409,"Unilateral or unspecified inguinal hernia, without obstruction or gangrene",Diseases of the digestive system,Hernia
+K719,"Toxic liver disease, unspecified",Diseases of the digestive system,Diseases of liver
+N341,Nonspecific urethritis,Diseases of the genitourinary system,Other diseases of urinary system
+Q019,"Encephalocele, unspecified","Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the nervous system
+K041,Necrosis of pulp,Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+Q254,Other congenital malformations of aorta,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q874,Marfan's syndrome,"Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations
+R030,Elevated blood pressure reading without diagnosis of hypertension,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+Q257,Other congenital malformations of pulmonary artery,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+J393,"Upper respiratory tract hypersensitivity reaction, site unspecified",Diseases of the respiratory system,Other diseases of upper respiratory tract
+E878,"Other disorders of electrolyte and fluid balance, not elsewhere classified","Endocrine, nutritional and metabolic diseases",Metabolic disorders
+B850,Pediculosis due to Pediculus humanus capitis,Certain infectious and parasitic diseases,"Pediculosis, acariasis and other infestations"
+C402,Malignant neoplasm of long bones of lower limb,Neoplasms,Malignant neoplasms
+E888,Other specified metabolic disorders,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+J069,"Acute upper respiratory infection, unspecified",Diseases of the respiratory system,Acute upper respiratory infections
+K519,"Ulcerative colitis, unspecified",Diseases of the digestive system,Noninfective enteritis and colitis
+K858,Other acute pancreatitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+M1394,"Arthritis, unspecified: hand",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+R628,Other lack of expected normal physiological development,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+M6269,Muscle strain: site unspecified,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+B690,Cysticercosis of central nervous system,Certain infectious and parasitic diseases,Helminthiases
+E131,"Other specified diabetes mellitus, with ketoacidosis","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+D180,"Haemangioma, any site",Neoplasms,Benign neoplasms
+F103,Mental and behavioral disorders due to use of alcohol: Withdrawal state,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F109,Mental and behavioral disorders due to use of alcohol: Unspecified Mental and behavioural disorder,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+K068,Other specified disorders of gingiva and edentulous alveolar ridge,Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+M6286,Other specified disorders of muscle: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+I409,"Acute myocarditis, unspecified",Diseases of the circulatory system,Other forms of heart disease
+N133,Other and unspecified hydronephrosis,Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+R591,Generalized enlarged lymph nodes,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R937,Abnormal findings on diagnostic imaging of other parts of musculoskeletal system,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+E058,Other thyrotoxicosis,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+L639,"Alopecia areata, unspecified",Diseases of the skin and subcutaneous tissue,Disorders of skin appendages
+L918,Other hypertrophic disorders of the skin,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+F430,Acute stress reaction,Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+G936,Cerebral oedema,Diseases of the nervous system,Other disorders of the nervous system
+I698,Sequelae of other and unspecified cerebrovascular diseases,Diseases of the circulatory system,Cerebrovascular diseases
+R263,Immobility,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the nervous and musculoskeletal systems
+B370,Candidal stomatitis,Certain infectious and parasitic diseases,Mycoses
+G439,"Migraine, unspecified",Diseases of the nervous system,Episodic and paroxysmal disorders
+G513,Clonic hemifacial spasm,Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+I438,Cardiomyopathy in other diseases classified elsewhere,Diseases of the circulatory system,Other forms of heart disease
+I692,Sequelae of other nontraumatic intracranial haemorrhage,Diseases of the circulatory system,Cerebrovascular diseases
+M1004,Idiopathic gout: hand,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+K716,"Toxic liver disease with hepatitis, not elsewhere classified",Diseases of the digestive system,Diseases of liver
+M1127,Other chondrocalcinosis: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+Q201,Double outlet right ventricle,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+T813,"Disruption of operation wound, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+F209,"Schizophrenia, unspecified",Mental and behavioural disorders,"Schizophrenia, schizotypal and delusional disorders"
+L309,"Dermatitis, unspecified",Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+A412,Sepsis due to unspecified staphylococcus,Certain infectious and parasitic diseases,Other bacterial diseases
+C920,Acute myeloblastic leukaemia [AML],Neoplasms,Malignant neoplasms
+J128,Other viral pneumonia,Diseases of the respiratory system,Influenza and pneumonia
+K701,Alcoholic hepatitis,Diseases of the digestive system,Diseases of liver
+M545,Low back pain,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M627,Rhabdomyolysis,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8008,Postmenopausal osteoporosis with pathological fracture: other,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+H179,"Corneal scar and opacity, unspecified",Diseases of the eye and adnexa,"Disorders of sclera, cornea, iris and ciliary body"
+K088,Other specified disorders of teeth and supporting structures,Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+K938,Disorders of other specified digestive organs in diseases classified elsewhere,Diseases of the digestive system,Other diseases of the digestive system
+C64,"Malignant neoplasm of kidney, except renal pelvis",Neoplasms,Malignant neoplasms
+J982,Interstitial emphysema,Diseases of the respiratory system,Other diseases of the respiratory system
+M1097,"Gout, unspecified: ankle and foot",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+R412,Retrograde amnesia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Symptoms and signs involving cognition, perception, emotional state and behaviour"
+B769,"Hookworm disease, unspecified",Certain infectious and parasitic diseases,Helminthiases
+F122,Mental and behavioral disorders due to use of cannabinoids: Dependence sydrome,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F609,"Personality disorder, unspecified",Mental and behavioural disorders,Disorders of adult personality and behaviour
+A084,"Viral intestinal infection, unspecified",Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",Certain infectious and parasitic diseases,Tuberculosis
+A499,"Bacterial infection, unspecified",Certain infectious and parasitic diseases,Other bacterial diseases
+B49,Unspecified mycosis,Certain infectious and parasitic diseases,Mycoses
+B789,"Strongyloidiasis, unspecified",Certain infectious and parasitic diseases,Helminthiases
+C12,Malignant neoplasm of pyriform sinus,Neoplasms,Malignant neoplasms
+C343,"Malignant neoplasm of lower lobe, bronchus or lung",Neoplasms,Malignant neoplasms
+C833,Diffuse large B-cell lymphoma,Neoplasms,Malignant neoplasms
+C859,"Non-Hodgkin lymphoma, unspecified",Neoplasms,Malignant neoplasms
+D352,Benign neoplasm of pituitary gland,Neoplasms,Benign neoplasms
+D529,"Folate deficiency anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Nutritional anaemias
+D751,Secondary polycythaemia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+D759,"Disease of blood and blood-forming organs, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other diseases of blood and blood-forming organs
+E209,"Hypoparathyroidism, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E273,Drug-induced adrenocortical insufficiency,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E279,"Disorder of adrenal gland, unspecified","Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+E831,Disorders of iron metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E859,"Amyloidosis, unspecified","Endocrine, nutritional and metabolic diseases",Metabolic disorders
+E86,Volume depletion,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F009,"Dementia in Alzheimer's disease, unspecified (G30.9+)",Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+F012,Subcortical vascular dementia,Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+F067,Mild cognitive disorder,Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+F239,"Acute and transient psychotic disorder, unspecified",Mental and behavioural disorders,"Schizophrenia, schizotypal and delusional disorders"
+F412,Mixed anxiety and depressive disorder,Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+F510,Nonorganic insomnia,Mental and behavioural disorders,Behavioural syndromes associated with physiological disturbances and physical factors
+G724,"Inflammatory myopathy, not elsewhere classified",Diseases of the nervous system,Diseases of myoneural junction and muscle
+G958,Other specified diseases of spinal cord,Diseases of the nervous system,Other disorders of the nervous system
+G98,"Other disorders of nervous system, not elsewhere classified",Diseases of the nervous system,Other disorders of the nervous system
+H470,"Disorders of optic nerve, not elsewhere classified",Diseases of the eye and adnexa,Disorders of optic nerve and visual pathways
+H540,"Blindness, binocular",Diseases of the eye and adnexa,Visual disturbances and blindness
+H905,"Sensorineural hearing loss, unspecified",Diseases of the ear and mastoid process,Other disorders of ear
+I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Diseases of the circulatory system,Hypertensive diseases
+I278,Other specified pulmonary heart diseases,Diseases of the circulatory system,Pulmonary heart disease and diseases of pulmonary circulation
+I348,Other nonrheumatic mitral valve disorders,Diseases of the circulatory system,Other forms of heart disease
+I360,Nonrheumatic tricuspid (valve) stenosis,Diseases of the circulatory system,Other forms of heart disease
+I431,Cardiomyopathy in metabolic diseases,Diseases of the circulatory system,Other forms of heart disease
+J920,Pleural plaque with presence of asbestos,Diseases of the respiratory system,Other diseases of pleura
+J988,Other specified respiratory disorders,Diseases of the respiratory system,Other diseases of the respiratory system
+J991,Respiratory disorders in other diffuse connective tissue disorders,Diseases of the respiratory system,Other diseases of the respiratory system
+K264,Duodenal ulcer: chronic or unspecified with haemorrhage,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K528,Other specified noninfective gastroenteritis and colitis,Diseases of the digestive system,Noninfective enteritis and colitis
+K600,Acute anal fissure,Diseases of the digestive system,Other diseases of intestines
+K628,Other specified diseases of anus and rectum,Diseases of the digestive system,Other diseases of intestines
+K658,Other peritonitis,Diseases of the digestive system,Diseases of peritoneum
+K752,Nonspecific reactive hepatitis,Diseases of the digestive system,Diseases of liver
+L023,"Cutaneous abscess, furuncle and carbuncle of buttock",Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L259,"Unspecified contact dermatitis, unspecified cause",Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+L405,"Arthropathic psoriasis (M07.0 - M07.3*, M09.0*)",Diseases of the skin and subcutaneous tissue,Papulosquamous disorders
+L958,Other vasculitis limited to the skin,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M0096,"Pyogenic arthritis, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M0099,"Pyogenic arthritis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M0119,Tuberculous arthritis (A18.0+): site unspecified,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M0909,Juvenile arthritis in psoriasis (L40.5+): site unspecified,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1092,"Gout, unspecified: upper arm",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1120,Other chondrocalcinosis: multiple sites,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1126,Other chondrocalcinosis: lower leg,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1183,Other specified crystal arthropathies: forearm,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1999,"Arthrosis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M316,Other giant cell arteritis,Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M350,Sicca syndrome [Sjรถgren],Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+M6593,"Synovitis and tenosynovitis, unspecified: forearm",Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7127,Synovial cyst of popliteal space [Baker]: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7269,Necrotising fasciitis: site unspecified,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7919,Myalgia: site unspecified,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8669,Other chronic osteomyelitis: site unspecified,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+M8697,"Osteomyelitis, unspecified: ankle and foot",Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N042,Nephrotic syndrome: diffuse membranous glomerulonephritis,Diseases of the genitourinary system,Glomerular diseases
+N210,Calculus in bladder,Diseases of the genitourinary system,Urolithiasis
+N280,Ischaemia and infarction of kidney,Diseases of the genitourinary system,Other disorders of kidney and ureter
+N359,"Urethral stricture, unspecified",Diseases of the genitourinary system,Other diseases of urinary system
+N433,"Hydrocele, unspecified",Diseases of the genitourinary system,Diseases of male genital organs
+N841,Polyp of cervix uteri,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q202,Double outlet left ventricle,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q204,Double inlet ventricle,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q212,Atrioventricular septal defect,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q213,Tetralogy of Fallot,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q221,Congenital pulmonary valve stenosis,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q233,Congenital mitral insufficiency,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q241,Levocardia,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q246,Congenital heart block,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q248,Other specified congenital malformations of the heart,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q249,"Congenital malformation of the heart, unspecified","Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q870,Congenital malformation syndromes predominantly affecting facial appearance,"Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations
+Q998,Other specified chromosome abnormalities,"Congenital malformations, deformations and chromosomal abnormalities","Chromosomal abnormalities, not elsewhere classified"
+R061,Stridor,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R068,Other and unspecified abnormalities of breathing,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R160,"Hepatomegaly, not elsewhere classified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R270,"Ataxia, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the nervous and musculoskeletal systems
+R418,Other and unspecified symptoms and signs involving cognitive functions and awareness,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R609,"Oedema, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R638,Other symptoms and signs concerning food and fluid intake,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R748,Abnormal levels of other serum enzymes,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+R932,Abnormal findings on diagnostic imaging of liver and biliary tract,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+T808,"Other complications following infusion, transfusion and therapeutic injection","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+B203,HIV disease resulting in other viral infections,Certain infectious and parasitic diseases,Human immunodeficiency virus [HIV] disease
+B259,"Cytomegaloviral disease, unspecified",Certain infectious and parasitic diseases,Other viral diseases
+D381,"Neoplasm of trachea, bronchus and lung",Neoplasms,Neoplasms of uncertain or unknown behaviour
+D474,Osteomyelofibrosis,Neoplasms,Neoplasms of uncertain or unknown behaviour
+F410,Panic disorder [episodic paroxysmal anxiety],Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+J82,"Pulmonary eosinophilia, not elsewhere classified",Diseases of the respiratory system,Other respiratory diseases principally affecting the interstitium
+L680,Hirsutism,Diseases of the skin and subcutaneous tissue,Disorders of skin appendages
+M4306,Spondylolysis: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+N911,Secondary amenorrhoea,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+R060,Dyspnoea,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R402,"Coma, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Symptoms and signs involving cognition, perception, emotional state and behaviour"
+T821,Mechanical complication of cardiac electronic device,"Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+F152,Mental and behavioral disorders due to use of other stimulants including caffeine: Dependence sydrome,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+H160,Corneal ulcer,Diseases of the eye and adnexa,"Disorders of sclera, cornea, iris and ciliary body"
+I426,Alcoholic cardiomyopathy,Diseases of the circulatory system,Other forms of heart disease
+J398,Other specified diseases of upper respiratory tract,Diseases of the respiratory system,Other diseases of upper respiratory tract
+M2554,Pain in joint: hand,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+N808,Other endometriosis,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q200,Common arterial trunk,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+R799,"Abnormal finding of blood chemistry, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+G039,"Meningitis, unspecified",Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G919,"Hydrocephalus, unspecified",Diseases of the nervous system,Other disorders of the nervous system
+G960,Cerebrospinal fluid leak,Diseases of the nervous system,Other disorders of the nervous system
+J158,Other bacterial pneumonia,Diseases of the respiratory system,Influenza and pneumonia
+J677,Air conditioner and humidifier lung,Diseases of the respiratory system,Lung diseases due to external agents
+A169,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation",Certain infectious and parasitic diseases,Tuberculosis
+G935,Compression of brain,Diseases of the nervous system,Other disorders of the nervous system
+J65,Pneumoconiosis associated with tuberculosis,Diseases of the respiratory system,Lung diseases due to external agents
+K715,Toxic liver disease with chronic active hepatitis,Diseases of the digestive system,Diseases of liver
+A411,Sepsis due to other specified staphylococcus,Certain infectious and parasitic diseases,Other bacterial diseases
+B001,Herpesviral vesicular dermatitis,Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions
+E032,Hypothyroidism due to medicaments and other exogenous substances,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+F162,Mental and behavioral disorders due to use of hallucinogens: Dependence sydrome,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+G003,Staphylococcal meningitis,Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G009,"Bacterial meningitis, unspecified",Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G910,Communicating hydrocephalus,Diseases of the nervous system,Other disorders of the nervous system
+G930,Cerebral cysts,Diseases of the nervous system,Other disorders of the nervous system
+G932,Benign intracranial hypertension,Diseases of the nervous system,Other disorders of the nervous system
+H598,Other postprocedural disorders of eye and adnexa,Diseases of the eye and adnexa,Other disorders of eye and adnexa
+I158,Other secondary hypertension,Diseases of the circulatory system,Hypertensive diseases
+I725,Aneurysm and dissection of other precerebral arteries,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+J013,Acute sphenoidal sinusitis,Diseases of the respiratory system,Acute upper respiratory infections
+J931,Other spontaneous pneumothorax,Diseases of the respiratory system,Other diseases of pleura
+K712,Toxic liver disease with acute hepatitis,Diseases of the digestive system,Diseases of liver
+L021,"Cutaneous abscess, furuncle and carbuncle of neck",Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L270,Generalized skin eruption due to drugs and medicaments,Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+L899,"Decubitus ulcer and pressure area, unspecified",Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+R659,"Systemic Inflammatory Response Syndrome, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+E038,Other specified hypothyroidism,"Endocrine, nutritional and metabolic diseases",Disorders of thyroid gland
+E786,Lipoprotein deficiency,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F321,Moderate depressive episode,Mental and behavioural disorders,Mood [affective] disorders
+H050,Acute inflammation of orbit,Diseases of the eye and adnexa,"Disorders of eyelid, lacrimal system and orbit"
+H472,Optic atrophy,Diseases of the eye and adnexa,Disorders of optic nerve and visual pathways
+J91,Pleural effusion in conditions classified elsewhere,Diseases of the respiratory system,Other diseases of pleura
+K913,Postoperative intestinal obstruction,Diseases of the digestive system,Other diseases of the digestive system
+R470,Dysphasia and aphasia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving speech and voice
+T817,"Vascular complications following a procedure, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Diseases of the circulatory system,Cerebrovascular diseases
+Q282,Arteriovenous malformation of cerebral vessels,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+G049,"Encephalitis, myelitis and encephalomyelitis, unspecified",Diseases of the nervous system,Inflammatory diseases of the central nervous system
+N412,Abscess of prostate,Diseases of the genitourinary system,Diseases of male genital organs
+G048,"Other encephalitis, myelitis and encephalomyelitis",Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G461,Anterior cerebral artery syndrome (I66.1+),Diseases of the nervous system,Episodic and paroxysmal disorders
+I661,Occlusion and stenosis of anterior cerebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+H669,"Otitis media, unspecified",Diseases of the ear and mastoid process,Diseases of middle ear and mastoid
+I616,"Intracerebral haemorrhage, multiple localized",Diseases of the circulatory system,Cerebrovascular diseases
+M2441,Recurrent dislocation and subluxation of joint: shoulder region,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+D300,Benign neoplasm of kidney,Neoplasms,Benign neoplasms
+D333,Benign neoplasm of cranial nerves,Neoplasms,Benign neoplasms
+D379,"Benign neoplasm of digestive organ, unspecified",Neoplasms,Neoplasms of uncertain or unknown behaviour
+G479,"Sleep disorder, unspecified",Diseases of the nervous system,Episodic and paroxysmal disorders
+G510,Bell's palsy,Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+G811,Spastic hemiplegia,Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+G825,"Tetraplegia, unspecified",Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+J200,Acute bronchitis due to Mycoplasma pneumoniae,Diseases of the respiratory system,Other acute lower respiratory infections
+J938,Other pneumothorax,Diseases of the respiratory system,Other diseases of pleura
+J953,Chronic pulmonary insufficiency following surgery,Diseases of the respiratory system,Other diseases of the respiratory system
+M0086,Arthritis and polyarthritis due to other specified bacterial agents: lower leg,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M4199,"Scoliosis, unspecified: Site unspecified",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M510,Lumbar and other intervertebral disc disorders with myelopathy (G99.2*),Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+Q851,Tuberous sclerosis,"Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations
+B957,Other staphylococcus as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+D432,"Neoplasm of brain, unspecified",Neoplasms,Neoplasms of uncertain or unknown behaviour
+D680,Von Willebrand's disease,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+F160,Mental and behavioral disorders due to use of hallucinogens: Acute intoxication,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+G912,Normal pressure hydrocephalus,Diseases of the nervous system,Other disorders of the nervous system
+G938,Other specified disorders of brain,Diseases of the nervous system,Other disorders of the nervous system
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",Diseases of the circulatory system,Cerebrovascular diseases
+I680,Cerebral amyloid angiopathy (E85.-+),Diseases of the circulatory system,Cerebrovascular diseases
+J210,Acute bronchiolitis due to respiratory syncytial virus,Diseases of the respiratory system,Other acute lower respiratory infections
+L959,"Vasculitis limited to the skin, unspecified",Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M952,Other acquired deformity of head,Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue
+A530,"Latent syphilis, unspecified as early or late",Certain infectious and parasitic diseases,Infections with a predominantly sexual mode of transmission
+B171,Acute hepatitis C,Certain infectious and parasitic diseases,Viral hepatitis
+I978,"Other postprocedural disorders of the circulatory system, not elsewhere classified",Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+R13,Dysphagia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R471,Dysarthria and anarthria,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving speech and voice
+C060,"Malignant neoplasm of other and unspecified parts of mouth, cheek mucosa",Neoplasms,Malignant neoplasms
+B009,"Herpesviral infection, unspecified",Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions
+K768,Other specified diseases of liver,Diseases of the digestive system,Diseases of liver
+D688,Other specified coagulation defects,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+F100,Mental and behavioral disorders due to use of alcohol: Acute intoxication,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+G810,Flaccid hemiplegia,Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+H402,Primary angle-closure glaucoma,Diseases of the eye and adnexa,Glaucoma
+H518,Other specified disorders of binocular movement,Diseases of the eye and adnexa,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+J998,Respiratory disorders in other diseases classified elsewhere,Diseases of the respiratory system,Other diseases of the respiratory system
+K551,Chronic vascular disorders of intestine,Diseases of the digestive system,Other diseases of intestines
+M6008,Infective myositis: other,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8098,Unspecified osteoporosis with pathological fracture: other,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N459,"Orchitis, epididymitis and epididymo-orchitis without abscess",Diseases of the genitourinary system,Diseases of male genital organs
+R680,"Hypothermia, not associated with low environmental temperature","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+B179,"Acute viral hepatitis, unspecified",Certain infectious and parasitic diseases,Viral hepatitis
+D126,"Benign neoplasm of colon, unspecified",Neoplasms,Benign neoplasms
+F010,Vascular dementia of acute onset,Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+H356,Retinal haemorrhage,Diseases of the eye and adnexa,Disorders of choroid and retina
+H534,Visual field defects,Diseases of the eye and adnexa,Visual disturbances and blindness
+K610,Anal abscess,Diseases of the digestive system,Other diseases of intestines
+K831,Obstruction of bile duct,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+K921,Melaena,Diseases of the digestive system,Other diseases of the digestive system
+M6266,Muscle strain: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8482,Other disorders of continuity of bone: upper arm,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+M950,Acquired deformity of nose,Diseases of the musculoskeletal system and connective tissue,Other disorders of the musculoskeletal system and connective tissue
+R590,Localized enlarged lymph nodes,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+G959,"Disease of spinal cord, unspecified",Diseases of the nervous system,Other disorders of the nervous system
+Q273,Peripheral arteriovenous malformation,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+K6500,Primary peritonitis,Diseases of the digestive system,Diseases of peritoneum
+C329,"Malignant neoplasm of larynx, unspecified",Neoplasms,Malignant neoplasms
+F191,Mental and behavioral disorders due to use of multiple drug use and use of other psychoactive substances: Harmful use,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+J384,Oedema of larynx,Diseases of the respiratory system,Other diseases of upper respiratory tract
+M1180,Other specified crystal arthropathies: multiple sites,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M4303,Spondylolysis: Cervicothoracic region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+R54,Senility,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+D131,Benign neoplasm of stomach,Neoplasms,Benign neoplasms
+J13,Pneumonia due to Streptococcus pneumoniae,Diseases of the respiratory system,Influenza and pneumonia
+J22,Unspecified acute lower respiratory infection,Diseases of the respiratory system,Other acute lower respiratory infections
+G431,Migraine with aura [classical migraine],Diseases of the nervous system,Episodic and paroxysmal disorders
+M1090,"Gout, unspecified: multiple sites",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1396,"Arthritis, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+R490,Dysphonia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving speech and voice
+A170,Tuberculous meningitis (G01*),Certain infectious and parasitic diseases,Tuberculosis
+A523,"Neurosyphilis, unspecified",Certain infectious and parasitic diseases,Infections with a predominantly sexual mode of transmission
+A528,"Late syphilis, latent",Certain infectious and parasitic diseases,Infections with a predominantly sexual mode of transmission
+A539,"Syphilis, unspecified",Certain infectious and parasitic diseases,Infections with a predominantly sexual mode of transmission
+B004,Herpesviral encephalitis (G05.1*),Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions
+B020,Zoster encephalitis (G05.1*),Certain infectious and parasitic diseases,Viral infections characterized by skin and mucous membrane lesions
+B839,"Helminthiasis, unspecified",Certain infectious and parasitic diseases,Helminthiases
+C119,"Malignant neoplasm of nasopharynx, unspecified",Neoplasms,Malignant neoplasms
+C23,Malignant neoplasm of gallbladder,Neoplasms,Malignant neoplasms
+C320,"Malignant neoplasm of larynx, glottis",Neoplasms,Malignant neoplasms
+C676,Malignant neoplasm of ureteric orifice,Neoplasms,Malignant neoplasms
+D332,"Benign neoplasm of brain, unspecified",Neoplasms,Benign neoplasms
+D391,Neoplasm of ovary,Neoplasms,Neoplasms of uncertain or unknown behaviour
+G01,Meningitis in bacterial diseases classified elsewhere,Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G021,Meningitis in mycoses classified elsewhere,Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G040,Acute disseminated encephalitis,Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G051,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G214,Vascular parkinsonism,Diseases of the nervous system,Extrapyramidal and movement disorders
+G373,Acute transverse myelitis in demyelinating disease of the central nervous system,Diseases of the nervous system,Demyelinating diseases of the central nervous system
+G462,Posterior cerebral artery syndrome (I66.2+),Diseases of the nervous system,Episodic and paroxysmal disorders
+H103,"Acute conjunctivitis, unspecified",Diseases of the eye and adnexa,Disorders of conjunctiva
+H341,Central retinal artery occlusion,Diseases of the eye and adnexa,Disorders of choroid and retina
+H401,Primary open-angle glaucoma,Diseases of the eye and adnexa,Glaucoma
+I359,"Aortic valve disorder, unspecified",Diseases of the circulatory system,Other forms of heart disease
+I491,Atrial premature depolarization,Diseases of the circulatory system,Other forms of heart disease
+J852,Abscess of lung without pneumonia,Diseases of the respiratory system,Suppurative and necrotic conditions of lower respiratory tract
+K429,Umbilical hernia without obstruction or gangrene,Diseases of the digestive system,Hernia
+K550,Acute vascular disorders of intestine,Diseases of the digestive system,Other diseases of intestines
+K838,Other specified diseases of biliary tract,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",Diseases of the digestive system,Other diseases of the digestive system
+L219,"Seborrhoeic dermatitis, unspecified",Diseases of the skin and subcutaneous tissue,Dermatitis and eczema
+L80,Vitiligo,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M0097,"Pyogenic arthritis, unspecified: ankle and foot",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1196,"Crystal arthropathy, unspecified: lower leg",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M4186,Other forms of scoliosis: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4781,Other spondylosis: Occipito-atlanto-axial region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4796,"Spondylosis, unspecified: Lumbar region",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M4807,Spinal stenosis: Lumbosacral region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M7916,Myalgia: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+N022,Recurrent and persistent haematuria: diffuse membranous glomerulonephritis,Diseases of the genitourinary system,Glomerular diseases
+N304,Irradiation cystitis,Diseases of the genitourinary system,Other diseases of urinary system
+N323,Diverticulum of bladder,Diseases of the genitourinary system,Other diseases of urinary system
+N47,"Redundant prepuce, phimosis and paraphimosis",Diseases of the genitourinary system,Diseases of male genital organs
+O244,Diabetes mellitus arising in pregnancy,"Pregnancy, childbirth and the puerperium",Other maternal disorders predominantly related to pregnancy
+R32,Unspecified urinary incontinence,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the urinary system
+R631,Polydipsia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R876,Abnormal findings in specimens from female genital organs: cytological findings,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+A182,Tuberculous peripheral lymphadenopathy,Certain infectious and parasitic diseases,Tuberculosis
+B980,Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters,Certain infectious and parasitic diseases,"Bacterial, viral and other infectious agents"
+C180,"Malignant neoplasm of colon, caecum",Neoplasms,Malignant neoplasms
+D151,Benign neoplasm of heart,Neoplasms,Benign neoplasms
+D562,Delta-beta thalassaemia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+E210,Primary hyperparathyroidism,"Endocrine, nutritional and metabolic diseases",Disorders of other endocrine glands
+G712,Congenital myopathies,Diseases of the nervous system,Diseases of myoneural junction and muscle
+H729,"Perforation of tympanic membrane, unspecified",Diseases of the ear and mastoid process,Diseases of middle ear and mastoid
+J320,Chronic maxillary sinusitis,Diseases of the respiratory system,Other diseases of upper respiratory tract
+K571,Diverticular disease of small intestine without perforation or abscess,Diseases of the digestive system,Other diseases of intestines
+K627,Radiation proctitis,Diseases of the digestive system,Other diseases of intestines
+M1187,Other specified crystal arthropathies: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1397,"Arthritis, unspecified: ankle and foot",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M754,Impingement syndrome of shoulder,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8108,Postmenopausal osteoporosis: other,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N814,"Uterovaginal prolapse, unspecified",Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+Q203,Discordant ventriculoarterial connection,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+Q256,Stenosis of pulmonary artery,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the circulatory system
+R931,Abnormal findings on diagnostic imaging of heart and coronary circulation,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+B350,Tinea barbae and tinea capitis,Certain infectious and parasitic diseases,Mycoses
+B89,Unspecified parasitic disease,Certain infectious and parasitic diseases,"Pediculosis, acariasis and other infestations"
+C341,"Malignant neoplasm of upper lobe, bronchus or lung",Neoplasms,Malignant neoplasms
+D531,"Other megaloblastic anaemias, not elsewhere classified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Nutritional anaemias
+E731,Secondary lactase deficiency,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+F121,Mental and behavioral disorders due to use of cannabinoids: Harmful use,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F170,Mental and behavioral disorders due to use of tobacco: Acute intoxication,Mental and behavioural disorders,Mental and behavioural disorders due to psychoactive substance use
+F330,"Recurrent depressive disorder, current episode mild",Mental and behavioural disorders,Mood [affective] disorders
+G401,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,Diseases of the nervous system,Episodic and paroxysmal disorders
+G902,Horner's syndrome,Diseases of the nervous system,Other disorders of the nervous system
+H021,Ectropion of eyelid,Diseases of the eye and adnexa,"Disorders of eyelid, lacrimal system and orbit"
+H353,Degeneration of macula and posterior pole,Diseases of the eye and adnexa,Disorders of choroid and retina
+H544,"Blindness, monocular",Diseases of the eye and adnexa,Visual disturbances and blindness
+H810,Meniere's disease,Diseases of the ear and mastoid process,Diseases of inner ear
+I342,Nonrheumatic mitral (valve) stenosis,Diseases of the circulatory system,Other forms of heart disease
+J101,"Influenza with other respiratory manifestations, other influenza virus identified",Diseases of the respiratory system,Influenza and pneumonia
+K868,Other specified diseases of pancreas,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+L400,Psoriasis vulgaris,Diseases of the skin and subcutaneous tissue,Papulosquamous disorders
+M2546,Effusion of joint: lower leg,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M5419,Radiculopathy: Site unspecified,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M5488,Other dorsalgia: Sacral and sacrococcygeal region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6524,Calcific tendinitis: hand,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+N139,"Obstructive and reflux uropathy, unspecified",Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+N761,Subacute and chronic vaginitis,Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs
+R278,Other and unspecified lack of coordination,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the nervous and musculoskeletal systems
+R620,Delayed milestone,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+B199,Unspecified viral hepatitis without hepatic coma,Certain infectious and parasitic diseases,Viral hepatitis
+E711,Other disorders of branched-chain amino-acid metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+G454,Transient global amnesia,Diseases of the nervous system,Episodic and paroxysmal disorders
+R203,Hyperaesthesia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+C150,"Malignant neoplasm of oesophagus, cervical part of oesophagus",Neoplasms,Malignant neoplasms
+C323,"Malignant neoplasm of larynx, laryngeal cartilage",Neoplasms,Malignant neoplasms
+I650,Occlusion and stenosis of vertebral artery,Diseases of the circulatory system,Cerebrovascular diseases
+L039,"Cellulitis, unspecified",Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+G463,Brain stem stroke syndrome (I60-I67+),Diseases of the nervous system,Episodic and paroxysmal disorders
+G560,Carpal tunnel syndrome,Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+H509,"Strabismus, unspecified",Diseases of the eye and adnexa,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+M357,Hypermobility syndrome,Diseases of the musculoskeletal system and connective tissue,Systemic connective tissue disorders
+Q142,Congenital malformation of optic disc,"Congenital malformations, deformations and chromosomal abnormalities","Congenital malformations of eye, ear, face and neck"
+G061,Intraspinal abscess and granuloma,Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G360,Neuromyelitis optica [Devic],Diseases of the nervous system,Demyelinating diseases of the central nervous system
+H052,Exophthalmic conditions,Diseases of the eye and adnexa,"Disorders of eyelid, lacrimal system and orbit"
+H109,"Conjunctivitis, unspecified",Diseases of the eye and adnexa,Disorders of conjunctiva
+H403,Glaucoma secondary to eye trauma,Diseases of the eye and adnexa,Glaucoma
+H931,Tinnitus,Diseases of the ear and mastoid process,Other disorders of ear
+I7030,Atherosclerosis of carotid artery without gangrene,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+M2553,Pain in joint: forearm,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M2555,Pain in joint: pelvic region and thigh,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+E660,Obesity due to excess calories,"Endocrine, nutritional and metabolic diseases",Obesity and other hyperalimentation
+L138,Other specified bullous disorders,Diseases of the skin and subcutaneous tissue,Bullous disorders
+N801,Endometriosis of ovary,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+K132,"Leukoplakia and other disturbances of oral epithelium, including tongue",Diseases of the digestive system,"Diseases of oral cavity, salivary glands and jaws"
+M758,Other shoulder lesions,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+D682,Hereditary deficiency of other clotting factors,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+G062,"Extradural and subdural abscess, unspecified",Diseases of the nervous system,Inflammatory diseases of the central nervous system
+G118,Other hereditary ataxias,Diseases of the nervous system,Systemic atrophies primarily affecting the central nervous system
+I312,"Haemopericardium, not elsewhere classified",Diseases of the circulatory system,Other forms of heart disease
+J851,Abscess of lung with pneumonia,Diseases of the respiratory system,Suppurative and necrotic conditions of lower respiratory tract
+K225,"Diverticulum of oesophagus, acquired",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+M8109,Postmenopausal osteoporosis: site unspecified,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+N289,"Disorder of kidney and ureter, unspecified",Diseases of the genitourinary system,Other disorders of kidney and ureter
+R065,Mouth breathing,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the circulatory and respiratory systems
+R798,Other specified abnormal findings of blood chemistry,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Abnormal findings on examination of blood, without diagnosis"
+T811,"Shock during or resulting from a procedure, not elsewhere classified","Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+K273,"Peptic ulcer, site unspecified: acute without haemorrhage or perforation",Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+D598,Other acquired haemolytic anaemias,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+G838,Other specified paralytic syndromes,Diseases of the nervous system,Cerebral palsy and other paralytic syndromes
+K251,Gastric ulcer: acute with perforation,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K315,Obstruction of duodenum,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+K851,Biliary acute pancreatitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+M4716,Other spondylosis with myelopathy: Lumbar region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+N135,Kinking and stricture of ureter without hydronephrosis,Diseases of the genitourinary system,Renal tubulo-interstitial diseases
+A021,Salmonella sepsis,Certain infectious and parasitic diseases,Intestinal Infectious Diseases
+A481,Legionnaires' disease,Certain infectious and parasitic diseases,Other bacterial diseases
+F018,Other vascular dementia,Mental and behavioural disorders,"Organic, including symptomatic, mental disorders"
+K869,"Disease of pancreas, unspecified",Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+E763,"Mucopolysaccharidosis, unspecified","Endocrine, nutritional and metabolic diseases",Metabolic disorders
+A241,Acute and fulminating melioidosis,Certain infectious and parasitic diseases,Certain zoonotic bacterial diseases
+G259,"Extrapyramidal and movement disorder, unspecified",Diseases of the nervous system,Extrapyramidal and movement disorders
+K630,Abscess of intestine,Diseases of the digestive system,Other diseases of intestines
+F449,"Dissociative [conversion] disorder, unspecified",Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+F450,Somatization disorder,Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders"
+C449,"Malignant neoplasm of skin, unspecified",Neoplasms,Malignant neoplasms
+D611,Drug-induced aplastic anaemia,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Aplastic and other anaemias
+G562,Lesion of ulnar nerve,Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+M7963,Pain in limb: forearm,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+T824,Mechanical complication of vascular dialysis catheter,"Injury, poisoning and certain other consequences of external causes","Complications of surgical and medical care, not elsewhere classified"
+N288,Other specified disorders of kidney and ureter,Diseases of the genitourinary system,Other disorders of kidney and ureter
+B354,Tinea corporis,Certain infectious and parasitic diseases,Mycoses
+M4197,"Scoliosis, unspecified: Lumbosacral region",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+Q632,Ectopic kidney,"Congenital malformations, deformations and chromosomal abnormalities",Congenital malformations of the urinary system
+A244,"Melioidosis, unspecified",Certain infectious and parasitic diseases,Certain zoonotic bacterial diseases
+C254,"Malignant neoplasm of pancreas, endocrine pancreas",Neoplasms,Malignant neoplasms
+D481,Neoplasm of connective and other soft tissue,Neoplasms,Neoplasms of uncertain or unknown behaviour
+D824,Hyperimmunoglobulin E [IgE] syndrome,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Certain disorders involving the immune mechanism
+K861,Other chronic pancreatitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+R179,"Jaundice, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the digestive system and abdomen
+R53,Malaise and fatigue,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+R630,Anorexia,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",General symptoms and signs
+M8647,Chronic osteomyelitis with draining sinus: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+I792,Peripheral angiopathy in diseases classified elsewhere,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+A490,"Staphylococcal infection, unspecified site",Certain infectious and parasitic diseases,Other bacterial diseases
+D539,"Nutritional anaemia, unspecified",Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Nutritional anaemias
+D593,Haemolytic-uraemic syndrome,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Haemolytic anaemias
+E140,"Unspecified diabetes mellitus, with coma","Endocrine, nutritional and metabolic diseases",Diabetes mellitus
+E40,Kwashiorkor,"Endocrine, nutritional and metabolic diseases",Malnutrition
+E440,Moderate protein-energy malnutrition,"Endocrine, nutritional and metabolic diseases",Malnutrition
+E830,Disorders of copper metabolism,"Endocrine, nutritional and metabolic diseases",Metabolic disorders
+G628,Other specified polyneuropathies,Diseases of the nervous system,Polyneuropathies and other disorders of the peripheral nervous system
+I059,"Mitral valve disease, unspecified",Diseases of the circulatory system,Chronic rheumatic heart diseases
+I700,Atherosclerosis of aorta,Diseases of the circulatory system,"Diseases of arteries, arterioles and capillaries"
+K430,"Incisional hernia with obstruction, without gangrene",Diseases of the digestive system,Hernia
+K801,Calculus of gallbladder with other cholecystitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+K830,Cholangitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
+L080,Pyoderma,Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L089,"Local infection of the skin and subcutaneous tissue, unspecified",Diseases of the skin and subcutaneous tissue,Infections of the skin and subcutaneous tissue
+L984,"Chronic ulcer of skin, not elsewhere classified",Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+L988,Other specified disorders of the skin and subcutaneous tissue,Diseases of the skin and subcutaneous tissue,Other disorders of the skin and subcutaneous tissue
+M0694,"Rheumatoid arthritis, unspecified: hand",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M1184,Other specified crystal arthropathies: hand,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M4317,Spondylolisthesis: Lumbosacral region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6006,Infective myositis: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M6007,Infective myositis: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M6597,"Synovitis and tenosynovitis, unspecified: ankle and foot",Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M680,Synovitis and tenosynovitis in bacterial diseases classified elsewhere,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7267,Necrotising fasciitis: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7966,Pain in limb: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M8586,Other specified disorders of bone density and structure: lower leg,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+M8699,"Osteomyelitis, unspecified: site unspecified",Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+E639,"Nutritional deficiency, unspecified","Endocrine, nutritional and metabolic diseases",Other nutritional deficiencies
+D66,Hereditary factor VIII deficiency,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,"Coagulation defects, purpura and other haemorrhagic conditions"
+I983,Oesophageal varices with bleeding in diseases classified elsewhere*,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+I820,Budd-Chiari syndrome,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+G549,"Nerve root and plexus disorder, unspecified",Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+H058,Other disorders of orbit,Diseases of the eye and adnexa,"Disorders of eyelid, lacrimal system and orbit"
+M4714,Other spondylosis with myelopathy: Thoracic region,Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+N398,Other specified disorders of urinary system,Diseases of the genitourinary system,Other diseases of urinary system
+N084,"Glomerular disorders in other endocrine, nutritional and metabolic diseases",Diseases of the genitourinary system,Glomerular diseases
+G587,Mononeuritis multiplex,Diseases of the nervous system,"Nerve, nerve root and plexus disorders"
+H538,Other visual disturbances,Diseases of the eye and adnexa,Visual disturbances and blindness
+M8189,Other osteoporosis: site unspecified,Diseases of the musculoskeletal system and connective tissue,Osteopathies and chondropathies
+J980,"Diseases of bronchus, not elsewhere classified",Diseases of the respiratory system,Other diseases of the respiratory system
+C241,"Malignant neoplasm of other and unspecified parts of biliary tract, ampulla of Vater",Neoplasms,Malignant neoplasms
+C530,Malignant neoplasm of endocervix,Neoplasms,Malignant neoplasms
+C835,Lymphoblastic (diffuse) lymphoma,Neoplasms,Malignant neoplasms
+M7986,Other specified soft tissue disorders: lower leg,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+M7989,Other specified soft tissue disorders: site unspecified,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+R229,"Localized swelling, mass and lump, unspecified","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+R238,Other and unspecified skin changes,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Symptoms and signs involving the skin and subcutaneous tissue
+M190,Primary arthrosis of other joints,Diseases of the musculoskeletal system and connective tissue,Arthropathies
+J351,Hypertrophy of tonsils,Diseases of the respiratory system,Other diseases of upper respiratory tract
+K620,Anal polyp,Diseases of the digestive system,Other diseases of intestines
+I231,Atrial septal defect as current complication following acute myocardial infarction,Diseases of the circulatory system,Ischaemic heart diseases
+K603,Anal fistula,Diseases of the digestive system,Other diseases of intestines
+I846,Residual haemorrhoidal skin tags,Diseases of the circulatory system,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+K602,"Anal fissure, unspecified",Diseases of the digestive system,Other diseases of intestines
+C910,Acute lymphoblastic leukaemia,Neoplasms,Malignant neoplasms
+F88,Other disorders of psychological development,Mental and behavioural disorders,Disorders of psychological development
+F89,Unspecified disorder of psychological development,Mental and behavioural disorders,Disorders of psychological development
+Q897,"Multiple congenital malformations, not elsewhere classified","Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations
+K296,Other gastritis,Diseases of the digestive system,"Diseases of oesophagus, stomach and duodenum"
+I982,Oesophageal varices without bleeding in diseases classified elsewhere,Diseases of the circulatory system,Other and unspecified disorders of the circulatory system
+Q444,Choledochal cyst,"Congenital malformations, deformations and chromosomal abnormalities",Other congenital malformations of the digestive system
+C792,Secondary malignant neoplasm of skin,Neoplasms,Malignant neoplasms
+G729,"Myopathy, unspecified",Diseases of the nervous system,Diseases of myoneural junction and muscle
+N719,"Inflammatory disease of uterus, unspecified",Diseases of the genitourinary system,Inflammatory diseases of female pelvic organs
+N882,Stricture and stenosis of cervix uteri,Diseases of the genitourinary system,Noninflammatory disorders of female genital tract
+C499,"Malignant neolpasm or connective and soft tissue, unspecified",Neoplasms,Malignant neoplasms
+H814,Vertigo of central origin,Diseases of the ear and mastoid process,Diseases of inner ear
+M199,"Arthrosis, unspecified",Diseases of the musculoskeletal system and connective tissue,Arthropathies
+M419,"Scoliosis, unspecified",Diseases of the musculoskeletal system and connective tissue,Dorsopathies
+M6537,Trigger finger: ankle and foot,Diseases of the musculoskeletal system and connective tissue,Soft tissue disorders
+C549,"Malignant neoplasm of corpus uteri, unspecified",Neoplasms,Malignant neoplasms
+F808,Other developmental disorders of speech or language,Mental and behavioural disorders,Disorders of psychological development
+D139,Benign neoplasm of Ill-defined sites within the digestive system,Neoplasms,Benign neoplasms
+K804,Calculus of bile duct with cholecystitis,Diseases of the digestive system,"Disorders of gallbladder, biliary tract and pancreas"
