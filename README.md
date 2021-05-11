@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Comorbidity Networks Analysis in Diseases of the Circulatory System
 ### Setup and Install Neo4j Desktop
  - Download Neo4j Desktop [here](https://neo4j.com/download/)
