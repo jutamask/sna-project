@@ -179,10 +179,3 @@ ORDER BY size DESC
 LIMIT toInteger($limit);
 ```
 
-
-=======
-# sna-project
-sna project
-pimmy
-SNA !!! 
->>>>>>> Stashed changes
