@@ -50,37 +50,6 @@ MATCH (i:id) UNWIND i.sdx_id as sdx MATCH (d:dx {dx:sdx}) MERGE (i)-[:HasSDx]-(d
 MATCH (x:dx)-[:HasSDx]-(i:id)-[:HasPDx]-(a:dx) MERGE (x)-[:Risk]-(a) ;
 ```
 
-- ถึงตรงนี้
-
-```
-\\Load csv dataset on import into local DB
-LOAD CSV WITH HEADERS FROM 
-'file:///CARBRAND.csv' AS line
-MATCH(claim:claim {ClaimNbr: line.ClaimNbr})
-MERGE(carbrand:carbrand {CarBrandCode: line.CarBrandCode})
-
-\\Create Relationship
-CREATE (claim)-[:claimbrand]->(carbrand)
-;
-```
-- Load Data car model to Local DBMS
-```
-\\Create Constraint
-CREATE CONSTRAINT ON (m:carmodel) ASSERT m.CarModel IS UNIQUE;
-```
-```
-\\Load csv dataset on import into local DB
-LOAD CSV WITH HEADERS FROM 
-'file:///CARMODEL.csv' AS line
-MATCH(claim:claim {ClaimNbr: line.ClaimNbr})
-MATCH(claim)-[:claimbrand]->(carbrand)
-CREATE(carmodel:carmodel {CarModelCode: line.CarModel ,CarBrandCode: line.CarBrandCode })
-
-\\Create Relationship
-CREATE (claim)-[:claimmodel]->(carmodel)
-MERGE (carmodel)-[:brand]->(carbrand)
-;
-```
 ### Explore data
 - Explore Data use cypher query [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Explore%20Data%20Node%20and%20Relationship.pdf)
 #### Cypher Query for Explore Data
