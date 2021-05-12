@@ -38,15 +38,15 @@ CREATE (dx:dx {dx: line.dx, term_d: line.TERM, chapter_d: line.CHAPTER, block_d:
 ```
 - Create Relationship
 ```
-//To determine which Node id has the primary diagnosis (PDx), establish a HasPDx relationship.
+\\To determine which Node id has the primary diagnosis (PDx), establish a HasPDx relationship.
 MATCH (i:id) UNWIND i.pdx_id as pdx MATCH (d:dx {dx:pdx}) MERGE (i)-[:HasPDx]-(d) ;
 ```
 ```
-//To determine which Node id has the secondary diagnosis (SDx), establish a HasSDx relationship.
+\\To determine which Node id has the secondary diagnosis (SDx), establish a HasSDx relationship.
 MATCH (i:id) UNWIND i.sdx_id as sdx MATCH (d:dx {dx:sdx}) MERGE (i)-[:HasSDx]-(d) ;
 ```
 ```
-//Create a RISK relationship to determine the risk of each disease.
+\\Create a RISK relationship to determine the risk of each disease.
 MATCH (x:dx)-[:HasSDx]-(i:id)-[:HasPDx]-(a:dx) MERGE (x)-[:Risk]-(a) ;
 ```
 
