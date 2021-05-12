@@ -4,7 +4,7 @@
  - About Neo4j [here](https://neo4j.com/product/#neo4j-desktop)
 ### Create New Project and Plugins
 - Create new project and Local DBMS [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Create%20Project.pdf)
-- Install and additional Plugin Graph Data Science Library  [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Plugins%20Graph%20Data%20Science.pdf)
+- Install and additional Plugin Graph Data Science Library  [Click here](https://github.com/jutamask/sna-project/blob/main/Install%20-%20Graph%20Data%20Science%20Library.pdf)
 ### Dataset
 - Dataset Diagnosis-Related  [Click here](https://github.com/jutamask/sna-project/blob/main/data_sna.csv)
 - Dataset Description-ICD10 [Click here](https://github.com/jutamask/sna-project/blob/main/descript_icd_dx.csv)
@@ -15,45 +15,43 @@
 - Load Dataset Sample Query [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Load%20Data.pdf)
 #### Cypher Query
 Run all the example queries:
-- Load Data claim to Local DBMS
+- Load Data Diagnosis-Related to Local DBMS
 ```
 \\Create Constraint
-CREATE CONSTRAINT ON (c:claim) ASSERT c.ClaimNbr IS UNIQUE;
-CREATE CONSTRAINT ON (a:agent) ASSERT a.AgentName IS UNIQUE;
-CREATE CONSTRAINT ON (n:notifytype) ASSERT n.NotifyType IS UNIQUE;
-CREATE CONSTRAINT ON (l:licenseplate) ASSERT l.LicensePlate IS UNIQUE;
-CREATE CONSTRAINT ON (u:causeofloss) ASSERT u.CauseOfLoss IS UNIQUE;
-CREATE CONSTRAINT ON (s:subpolicytype) ASSERT s.SubPolicyType IS UNIQUE;
-CREATE CONSTRAINT ON (a:approval) ASSERT a.Approval IS UNIQUE;
+CREATE CONSTRAINT ON (i:id) ASSERT i.id IS UNIQUE;
 ```
 ```
-\\Load csv dataset on import into local DB
+\\Load csv dataset on import into local DB and Create Node 'id'
 LOAD CSV WITH HEADERS FROM 
-'file:///DATAMTCLAIMALL.csv' AS line 
-WITH line,SPLIT(line.AccidentDate,'-') as date
-
-CREATE (claim:claim {ClaimNbr: line.ClaimNbr , NotifyType: line.NotifyType , CauseOfLoss: line.CauseOfLoss , Approval: line.Approval , LicensePlate: line.LicensePlate , SubPolicyType: line.SubPolicyType , CarBrandCode: line.CarBrandCode , CarModel: line.CarModel , AgentName: line.AgentName})
-MERGE (agent:agent {AgentName: line.AgentName})
-MERGE (notifytype:notifytype {NotifyType: line.NotifyType})
-MERGE (licenseplate:licenseplate {LicensePlate: line.LicensePlate})
-MERGE (causeofloss:causeofloss {CauseOfLoss: line.CauseOfLoss})
-MERGE (subpolicytype:subpolicytype {SubPolicyType: line.SubPolicyType})
-MERGE (approval:approval {Approval: line.Approval})
-
-//Create Relationship
-CREATE (claim)-[:agentowner]->(agent)
-CREATE (claim)-[:vehicleclaim]->(licenseplate)
-CREATE (claim)-[:approvedby]->(approval)
-CREATE (claim)-[:type]->(notifytype)
-CREATE (claim)-[:productgroup]->(subpolicytype)
-CREATE (claim)-[:result]->(causeofloss)
-;
+'file:///data_sna.csv' AS line 
+CREATE (id:id {id: line.id, pdx_id: line.Pdx, sdx_id: line.Sdx, n_id: line.number_of_patient});
 ```
-- Load Data car brand to Local DBMS
+- Load Data Description-ICD10 to Local DBMS
 ```
 \\Create Constraint
-CREATE CONSTRAINT ON (b:carbrand) ASSERT b.CarBrand IS UNIQUE;
+CREATE CONSTRAINT ON (d:dx) ASSERT d.dx IS UNIQUE;
 ```
+```
+\\Load csv dataset on import into local DB and Create Node 'dx'
+LOAD CSV WITH HEADERS FROM 'file:///descript_icd_dx.csv' AS line 
+CREATE (dx:dx {dx: line.dx, term_d: line.TERM, chapter_d: line.CHAPTER, block_d: line.BLOCK});
+```
+- Create Relationship
+```
+//To determine which Node id has the primary diagnosis (PDx), establish a HasPDx relationship.
+MATCH (i:id) UNWIND i.pdx_id as pdx MATCH (d:dx {dx:pdx}) MERGE (i)-[:HasPDx]-(d) ;
+```
+```
+//To determine which Node id has the secondary diagnosis (SDx), establish a HasSDx relationship.
+MATCH (i:id) UNWIND i.sdx_id as sdx MATCH (d:dx {dx:sdx}) MERGE (i)-[:HasSDx]-(d) ;
+```
+```
+//Create a RISK relationship to determine the risk of each disease.
+MATCH (x:dx)-[:HasSDx]-(i:id)-[:HasPDx]-(a:dx) MERGE (x)-[:Risk]-(a) ;
+```
+
+- ถึงตรงนี้
+
 ```
 \\Load csv dataset on import into local DB
 LOAD CSV WITH HEADERS FROM 
