@@ -74,23 +74,25 @@ MATCH p=()-[r:HasSDx]->() RETURN p LIMIT 50
 ```
 MATCH p=()-[r:Risk]->() RETURN p LIMIT 50
 ```
-### Explore the highest number of claims made
+### Explore the highest number of diseases
 - Insight volumn claim [here](https://github.com/phuritanc/git-snaneo4j/blob/main/largest%20number%20of%20claim.pdf)
-#### Cypher Query for highest number of claims
+#### Cypher Query for highest number of diseases
 Run all the example queries:
-- Top10 Car Model with the highest number of claims
+- Top5 Diseases with the highest number of Principal Diagnosis (PDx)
 ``` 
-MATCH (c:claim)-[:claimmodel]->(m:carmodel)
-RETURN m.CarModelCode as model , COUNT(c.ClaimNbr) as no_of_claim
-ORDER BY no_of_claim DESC
-LIMIT 10
+MATCH (n:id)-[:HasPDx]-(a:dx)
+RETURN a.dx as PDx,a.term_d as PDx_Name,
+sum(ToInteger(n.n_id)) as number_of_patient
+ORDER BY number_of_patient DESC
+LIMIT 5 
 ```
-- Top10 Agent with the highest number of claims
+- Top5 Diseases with the highest number of Secondary Diagnosis (SDx)
 ```
-MATCH (a:agent)-[:agentowner]-(c:claim)
-RETURN a.AgentName as agentname , COUNT(c.ClaimNbr) as no_of_claim
-ORDER BY no_of_claim DESC
-LIMIT 10
+MATCH (n:id)-[:HasSDx]-(a:dx)
+RETURN a.dx as SDx,a.term_d as SDx_Name,
+sum(ToInteger(n.n_id)) as number_of_patient
+ORDER BY number_of_patient DESC
+LIMIT 5 
 ```
 - Top10 License Plate with the highest number of claims
 ```
