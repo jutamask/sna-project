@@ -94,19 +94,21 @@ sum(ToInteger(n.n_id)) as number_of_patient
 ORDER BY number_of_patient DESC
 LIMIT 5 
 ```
-- Top10 License Plate with the highest number of claims
+- Graph data shows the network of Comorbidity
 ```
-MATCH (l:licenseplate)-[:vehicleclaim]-(c:claim)
-RETURN l.LicensePlate as licenseplate , COUNT(c.ClaimNbr) as no_of_claim
-ORDER BY no_of_claim DESC
-LIMIT 10
+MATCH p=(x:dx)-[:Risk]-(a:dx) RETURN p LIMIT 25
 ```
-- Top10 Cause of loss with the highest number of claims
+- Graph data shows the network of Dyslipidemia(DLP)
 ```
-MATCH (r:causeofloss)-[:result]-(c:claim)
-RETURN r.CauseOfLoss as result , COUNT(c.ClaimNbr) as no_of_claim
-ORDER BY no_of_claim DESC
-LIMIT 10
+MATCH p=(x:dx)-[:Risk]-(a:dx) WHERE a.dx = "E789" RETURN p LIMIT 10
+```
+- Graph data shows the network of Type 2 Diabetes mellitus (DM Type2)
+```
+MATCH p=(x:dx)-[:Risk]-(a:dx) WHERE a.dx = "E119" RETURN p LIMIT 25
+```
+- Graph data shows the network of Atherosclerotic heart disease
+```
+MATCH p=(x:dx)-[:Risk]-(a:dx) WHERE a.dx = "I251" RETURN p LIMIT 25
 ```
 ### Algorithm Community Detection-Modularity Optimization
 - Algorithm Community Detection-Modularity Optimization [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Algorithm.pdf)
