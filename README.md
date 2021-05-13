@@ -1,16 +1,16 @@
 # Comorbidity Networks Analysis in Diseases of the Circulatory System
 ### Setup and Install Neo4j Desktop
- - Download Neo4j Desktop [here](https://neo4j.com/download/)
- - About Neo4j [here](https://neo4j.com/product/#neo4j-desktop)
+ - Download Neo4j Desktop [Click here](https://neo4j.com/download/)
+ - About Neo4j [Click here](https://neo4j.com/product/#neo4j-desktop)
 ### Create New Project and Plugins
-- Create new project and Local DBMS [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Create%20Project.pdf)
+- Create new project and Local DBMS [Click here](https://github.com/jutamask/sna-project/blob/main/Create%20new%20project%20.pdf)
 - Install and additional Plugin Graph Data Science Library  [Click here](https://github.com/jutamask/sna-project/blob/main/Install%20-%20Graph%20Data%20Science%20Library.pdf)
 ### Dataset
 - Dataset Diagnosis-Related  [Click here](https://github.com/jutamask/sna-project/blob/main/data_sna.csv)
 - Dataset Description-ICD10 [Click here](https://github.com/jutamask/sna-project/blob/main/descript_icd_dx.csv)
 
 ### Import Data to Neo4j
-- Import data to project [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Import%20Dataset%20to%20neo4j.pdf)
+- Import data to project [Click here](https://github.com/jutamask/sna-project/blob/main/Import%20Data%20to%20Neo4j.pdf)
 ### Load Dataset into Local DBMS
 - Load Dataset Sample Query [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Load%20Data.pdf)
 #### Cypher Query
