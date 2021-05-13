@@ -54,33 +54,25 @@ MATCH (x:dx)-[:HasSDx]-(i:id)-[:HasPDx]-(a:dx) MERGE (x)-[:Risk]-(a) ;
 - Explore Data use cypher query [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Explore%20Data%20Node%20and%20Relationship.pdf)
 #### Cypher Query for Explore Data
 Run all the example queries:
-- Node Claim
+- Node id
 ```
-MATCH (n:claim) RETURN n LIMIT 25
+MATCH (n:id) RETURN n LIMIT 50
 ```
-- Node Car Model
+- Node dx
 ```
-MATCH (n:carmodel) RETURN n LIMIT 25
+MATCH (n:dx) RETURN n LIMIT 50
 ```
-- Node cause of loss
+- Relationship of primary diagnosis (PDx)
 ```
-MATCH (n:causeofloss) RETURN n LIMIT 25
+MATCH p=()-[r:HasPDx]->() RETURN p LIMIT 50
 ```
-- Node Agent
+- Relationship of secondary diagnosis (SDx)
 ```
-MATCH (n:agent) RETURN n LIMIT 25
+MATCH p=()-[r:HasSDx]->() RETURN p LIMIT 50
 ```
-- Relationship of agent owner
+- Relationship of risk for each disease
 ```
-MATCH p=()-[r:agentowner]->() RETURN p LIMIT 25
-```
-- Relationship of claim model
-```
-MATCH p=()-[r:claimmodel]->() RETURN p LIMIT 300
-```
-- Relationship of product group
-```
-MATCH p=()-[r:productgroup]->() RETURN p LIMIT 25
+MATCH p=()-[r:Risk]->() RETURN p LIMIT 50
 ```
 ### Explore the highest number of claims made
 - Insight volumn claim [here](https://github.com/phuritanc/git-snaneo4j/blob/main/largest%20number%20of%20claim.pdf)
