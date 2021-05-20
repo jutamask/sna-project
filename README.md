@@ -115,31 +115,55 @@ MATCH p=(x:dx)-[:Risk]-(a:dx) WHERE a.dx = "I251" RETURN p LIMIT 25
 #### Cypher Query for Degree Centrality Algorithm
 - Setting parameters
 ```
-:param limit => ( 42); 
-:param config => ({ nodeProjection: '*', relationshipProjection: { relType: { type: '*', orientation: 'NATURAL', properties: { n_id: { property: 'n_id', defaultValue: 1 }}}}, relationshipWeightProperty: 'n_id'}); :param communityNodeLimit => ( 10);
+:param limit => ( 42);
+:param config => ({
+  nodeProjection: 'dx',
+  relationshipProjection: {
+    relType: {
+      type: 'Risk',
+      orientation: 'NATURAL',
+      properties: {
+        n_id: {
+          property: 'n_id',
+          defaultValue: 1
+        }
+      }
+    }
+  },
+  relationshipWeightProperty: 'n_id'
+});
+:param communityNodeLimit => ( 10);
 ```
 - Anonymous Graph
 ```
-CALL gds.beta.modularityOptimization.stream($config) YIELD nodeId, communityId AS community
-WITH gds.util.asNode(nodeId) AS node, community
-WITH collect(node) AS allNodes, community
-RETURN community, allNodes[0..$communityNodeLimit] AS nodes, size(allNodes) AS size
-ORDER BY size DESC
+CALL gds.alpha.degree.stream($config) YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+RETURN node, score
+ORDER BY score DESC
 LIMIT toInteger($limit);
 ```
 #### Cypher Query for Betweenness Centrality Algorithm
 - Setting parameters
 ```
-:param limit => ( 42); 
-:param config => ({ nodeProjection: '*', relationshipProjection: { relType: { type: '*', orientation: 'NATURAL', properties: { n_id: { property: 'n_id', defaultValue: 1 }}}}, relationshipWeightProperty: 'n_id'}); :param communityNodeLimit => ( 10);
+:param limit => ( 42);
+:param config => ({
+  nodeProjection: 'dx',
+  relationshipProjection: {
+    relType: {
+      type: 'Risk',
+      orientation: 'NATURAL',
+      properties: {}
+    }
+  }
+});
+:param communityNodeLimit => ( 10);
 ```
 - Anonymous Graph
 ```
-CALL gds.beta.modularityOptimization.stream($config) YIELD nodeId, communityId AS community
-WITH gds.util.asNode(nodeId) AS node, community
-WITH collect(node) AS allNodes, community
-RETURN community, allNodes[0..$communityNodeLimit] AS nodes, size(allNodes) AS size
-ORDER BY size DESC
+CALL gds.betweenness.stream($config) YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS node, score
+RETURN node, score
+ORDER BY score DESC
 LIMIT toInteger($limit);
 ```
 
