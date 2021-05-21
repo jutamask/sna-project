@@ -4,7 +4,7 @@
  - About Neo4j [Click here](https://neo4j.com/product/#neo4j-desktop)
 ### Create New Project and Plugins
 - Create new project and Local DBMS [Click here](https://github.com/jutamask/sna-project/blob/main/Create%20new%20project%20.pdf)
-- Install and additional Plugin Graph Data Science Library  [Click here](https://github.com/jutamask/sna-project/blob/main/Install%20-%20Graph%20Data%20Science%20Library.pdf)
+- Install Graph Data Science Playground  [Click here](https://github.com/jutamask/sna-project/blob/main/Install%20-%20Graph%20Data%20Science%20Playground.pdf)
 ### Dataset
 - Dataset Diagnosis-Related  [Click here](https://github.com/jutamask/sna-project/blob/main/data_sna.csv)
 - Dataset Description-ICD10 [Click here](https://github.com/jutamask/sna-project/blob/main/descript_icd_dx.csv)
@@ -12,7 +12,7 @@
 ### Import Data to Neo4j
 - Import data to project [Click here](https://github.com/jutamask/sna-project/blob/main/Import%20Data%20to%20Neo4j.pdf)
 ### Load Dataset into Local DBMS
-- Load Dataset Sample Query [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Load%20Data.pdf)
+- Load Dataset Sample Query [Click here](hhttps://github.com/jutamask/sna-project/blob/main/Load%20Dataset%20into%20Local%20DBMS.pdf)
 #### Cypher Query
 Run all the example queries:
 - Load Data Diagnosis-Related to Local DBMS
@@ -51,7 +51,7 @@ MATCH (x:dx)-[:HasSDx]-(i:id)-[:HasPDx]-(a:dx) MERGE (x)-[:Risk]-(a) ;
 ```
 
 ### Explore data
-- Explore Data use cypher query [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Explore%20Data%20Node%20and%20Relationship.pdf)
+- Explore Data use cypher query [Click here](https://github.com/jutamask/sna-project/blob/main/Explore%20Data.pdf)
 #### Cypher Query for Explore Data
 Run all the example queries:
 - Node id
@@ -75,7 +75,7 @@ MATCH p=()-[r:HasSDx]->() RETURN p LIMIT 50
 MATCH p=()-[r:Risk]->() RETURN p LIMIT 50
 ```
 ### Explore the highest number of diseases
-- Insight volumn claim [here](https://github.com/phuritanc/git-snaneo4j/blob/main/largest%20number%20of%20claim.pdf)
+- Insight volumn disease [Click here](https://github.com/jutamask/sna-project/blob/main/Explore%20the%20highest%20number%20of%20diseases.pdf)
 #### Cypher Query for highest number of diseases
 Run all the example queries:
 - Top5 Diseases with the highest number of Principal Diagnosis (PDx)
@@ -111,7 +111,7 @@ MATCH p=(x:dx)-[:Risk]-(a:dx) WHERE a.dx = "E119" RETURN p LIMIT 25
 MATCH p=(x:dx)-[:Risk]-(a:dx) WHERE a.dx = "I251" RETURN p LIMIT 25
 ```
 ### Centrality Algorithms
-- Algorithm Community Detection-Modularity Optimization [here](https://github.com/phuritanc/git-snaneo4j/blob/main/Algorithm.pdf)
+- Degeee & Betweenness Centrality Algorithms [Click here](https://github.com/jutamask/sna-project/blob/main/Find%20Centrality%20Algorithms.pdf)
 #### Cypher Query for Degree Centrality Algorithm
 - Setting parameters
 ```
