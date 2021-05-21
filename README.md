@@ -12,7 +12,7 @@
 ### Import Data to Neo4j
 - Import data to project [Click here](https://github.com/jutamask/sna-project/blob/main/Import%20Data%20to%20Neo4j.pdf)
 ### Load Dataset into Local DBMS
-- Load Dataset Sample Query [Click here](hhttps://github.com/jutamask/sna-project/blob/main/Load%20Dataset%20into%20Local%20DBMS.pdf)
+- Load Dataset Sample Query [Click here](https://github.com/jutamask/sna-project/blob/main/Load%20Dataset%20into%20Local%20DBMS.pdf)
 #### Cypher Query
 Run all the example queries:
 - Load Data Diagnosis-Related to Local DBMS
